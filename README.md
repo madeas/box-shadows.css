@@ -1,5 +1,5 @@
 # Box-shadows.css
-A library of CSS box-shadows. As easy to use as an easy thing.
+A collection of CSS box-shadows. As easy to use as an easy thing.
 
 <code>box-shadows.css</code> a bunch of cool and fun shadows for you to use in your projects. Great for emphasis, tables, homepages, sliders, and general just-add-water-awesomeness.
 
