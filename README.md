@@ -3,7 +3,6 @@ A library of CSS box-shadows. As easy to use as an easy thing.
 
 <code>box-shadows.css</code> a bunch of cool and fun shadows for you to use in your projects. Great for emphasis, tables, homepages, sliders, and general just-add-water-awesomeness.
 
-
 ## Basic Usage
 
 1. Include the stylesheet on your document's <head>
@@ -14,7 +13,6 @@ A library of CSS box-shadows. As easy to use as an easy thing.
     
 2. Add the class <code>box-shadows</code> to the element you want to container.
 
-
 3. Finally you need to add one of the following classes:
 
 See https://jsfiddle.net/madeas/nyvmwzmw/
@@ -23,12 +21,18 @@ Full example:
 >
     <div class="box-shadows shadow-name">Example</div>
 
-## Shadow-inner 
+## Shadow-inner
 
 4. Add the class <code>shadow-inner</code> to the element, in you want create an internal shadow.
+
 Full example:
 >
     <div class="box-shadows shadow-inner shadow-name">Example</div>
+
+
+## Hover effect
+
+5.
 
 ## Usage
 To use box-shadows.css in your website, simply drop the stylesheet into your document's <code>head</code>, and add the class <code>box-shadows</code> to an element, along with any of the <code>shadow names</code>. Great! You've got a CSS block with shadow.
