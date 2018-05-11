@@ -1,4 +1,4 @@
-# Box-shadows.css <a href="/LICENSE"><img src="http://madeas.ru/img/git/mit.svg" alt="license"></a> <a href="/CHANGELOG.md"><img src="http://madeas.ru/img/git/changelog.svg" alt="changelog"></a> <a href="https://github.com/madeas/box-shadows.css/releases"><img src="http://madeas.ru/img/git/release.svg" alt="releases"></a> <a href="#"><img src="http://madeas.ru/img/git/cdn.svg" alt="license"></a>
+# Box-shadows.css <a href="/LICENSE"><img src="http://madeas.ru/img/git/mit.svg" alt="license"></a> <a href="/CHANGELOG.md"><img src="http://madeas.ru/img/git/changelog.svg" alt="changelog"></a> <a href="https://github.com/madeas/box-shadows.css/releases"><img src="http://madeas.ru/img/git/release.svg" alt="releases"></a> <a href="https://cdnjs.com/"><img src="http://madeas.ru/img/git/cdn.svg" alt="license"></a>
 A collection of CSS box-shadows. As easy to use as an easy thing.
 
 <code>box-shadows.css</code> a bunch of cool and fun shadows for you to use in your projects. Great for emphasis, tables, homepages, sliders, and general just-add-water-awesomeness.
