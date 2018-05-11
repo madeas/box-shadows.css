@@ -8,7 +8,12 @@ A collection of CSS box-shadows. As easy to use as an easy thing.
 1. Include the stylesheet on your document's <head>
 >
     <head>
-      <link rel="stylesheet" href="box-shadows.css">
+      <link rel="stylesheet" href="https://madeas.ru/css/box-shadows.css">
+    </head>
+or
+>
+    <head>
+      <link rel="stylesheet" href="https://madeas.ru/css/box-shadows.min.css">
     </head>
     
 2. Add the class <code>bShadow</code> to the block you want to use.
