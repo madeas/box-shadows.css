@@ -13,7 +13,7 @@ A library of CSS box-shadows. As easy to use as an easy thing.
     
 2. Add the class <code>bShadow</code> to the block you want to use.
 
-3. Finally you need change <code>bShadow</code> or to add one of the following classes. For example <code>bShadow-1</code> 
+3. Finally you need change <code>bShadow</code> or to add one of the following classes. For example <code>bShadow-1</code>.
 * Now the collection consists of 12 shadows
 
 See https://jsfiddle.net/madeas/o7v3awLs/
@@ -34,7 +34,7 @@ Full example:
     <div class="bShadow-1 bShadow-3h">Example</div>
 
 ## Usage
-To use box-shadows.css in your website, simply drop the stylesheet into your document's <code>head</code>, and add the class <code>box-shadows</code> to an element, along with any of the <code>shadow names</code>. Great! You've got a CSS block with shadow.
+To use box-shadows.css in your website, simply drop the stylesheet into your document's <code>head</code>, and add the class <code>bShadow</code> to an element, along with any of the <code>shadow names</code> or singly. That's all! You've got a CSS block with shadow.
 
 ## License
 Box-shadows.css.css is licensed under the MIT license. (http://opensource.org/licenses/MIT)
