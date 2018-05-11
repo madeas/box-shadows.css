@@ -23,7 +23,11 @@ Full example:
     <div class="bShadow-light">Example</div> 
 or   
 >   
+    <div class="bShadow bShadow-1">Example</div>
+or   
+>   
     <div class="bShadow-1">Example</div>
+
 
 ## Hover effect
 
@@ -31,7 +35,7 @@ or
 
 Full example:
 >
-    <div class="bShadow-1 bShadow-3h">Example</div>
+    <div class="bShadow bShadow-1 bShadow-3h">Example</div>
 
 ## Usage
 To use box-shadows.css in your website, simply drop the stylesheet into your document's <code>head</code>, and add the class <code>bShadow</code> to an element, along with any of the <code>shadow names</code> or singly. That's all! You've got a CSS block with shadow.
