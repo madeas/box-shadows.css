@@ -20,13 +20,13 @@ See [example][link1]
 
 Full example:
 >
-    <div class="bShadow-light">Example</div> 
-or   
->   
-    <div class="bShadow bShadow-1">Example</div>
-or   
+    <div class="bShadow">Example</div> 
+or
 >   
     <div class="bShadow-1">Example</div>
+or
+>   
+    <div class="bShadow bShadow-1">Example</div>
 
 
 ## Hover effect
