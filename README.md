@@ -11,9 +11,9 @@ A library of CSS box-shadows. As easy to use as an easy thing.
       <link rel="stylesheet" href="box-shadows.css">
     </head>
     
-2. Add the class <code>box-shadows</code> to the element you want to container.
+2. Add the class <code>bShadow</code> to the block you want to use.
 
-3. Finally you need to add one of the following classes:
+3. Finally you need change <code>bShadow</code> or to add one of the following classes. For example <code>bShadow-1</code> 
 * Now the collection consists of 12 shadows
 
 See https://jsfiddle.net/madeas/o7v3awLs/
