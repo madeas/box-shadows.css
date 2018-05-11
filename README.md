@@ -16,8 +16,6 @@ A library of CSS box-shadows. As easy to use as an easy thing.
 3. Finally you need change <code>bShadow</code> or to add one of the following classes. For example <code>bShadow-1</code>.
 * Now the collection consists of 12 shadows
 
-See [example][link1]
-
 Full example:
 >
     <div class="bShadow">Example</div> 
@@ -28,6 +26,7 @@ or
 >   
     <div class="bShadow bShadow-1">Example</div>
 
+See [example][link1]
 
 ## Hover effect
 
