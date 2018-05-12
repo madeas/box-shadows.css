@@ -3,9 +3,11 @@ A collection of CSS box-shadows. As easy to use as an easy thing.
 
 <code>box-shadows.css</code> a bunch of cool and fun shadows for you to use in your projects. Great for tables, homepages content, containers, navigation and other blocks your website.
 
+* Now the collection consists of 18 shadows with number, bShadow and bShadow-light.
+
 ## Basic Usage
 
-### 1. Include the stylesheet on your document's <head>:
+### 1. Include the stylesheet on your document's <code>&lt;head&gt;</code>
 >
     <head>
       <link rel="stylesheet" href="https://madeas.ru/css/box-shadows.css">
@@ -17,20 +19,19 @@ A collection of CSS box-shadows. As easy to use as an easy thing.
       <link rel="stylesheet" href="https://madeas.ru/css/box-shadows.min.css">
     </head>
     
-### DOWNLOAD
+### Download
 
 See [box-shadows.css][link1] and [box-shadows.min.css][link1]
     
-### CDN 
+### Instead of installing you may use the remote version (hosted by CDN):*
 >
     <head>
-      <link rel="stylesheet" href="/box-shadows.min.css">
+      <link rel="stylesheet" href="../box-shadows.min.css">
     </head>
 
 2. Add the class <code>bShadow</code> to the block you want to use.
 
-3. Finally you need change <code>bShadow</code> or to add one of the following classes. For example <code>bShadow-1</code>.
-* Now the collection consists of 17 shadows
+3. Finally you need change <code>bShadow</code> or to add one of the following classes. For example <code>bShadow-1</code>:
 
 Full example:
 >
@@ -62,6 +63,8 @@ Box-shadows.css.css is licensed under the MIT license. (http://opensource.org/li
 
 ## Contributing
 In the process of creating shadow names. I will be grateful for the help.
+
+* - in search of server
 
 [link1]: https://jsfiddle.net/madeas/o7v3awLs/
 [link2]: https://jsfiddle.net/madeas/o7v3awLs/1/
