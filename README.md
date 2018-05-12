@@ -21,7 +21,7 @@ A collection of CSS box-shadows. As easy to use as an easy thing.
     
 ### Download
 
-See [box-shadows.css][link1] and [box-shadows.min.css][link1]
+See [box-shadows.css][link3] and [box-shadows.min.css][link4]
     
 ### Instead of installing you may use the remote version (hosted by CDN):*
 >
