@@ -5,21 +5,32 @@ A collection of CSS box-shadows. As easy to use as an easy thing.
 
 ## Basic Usage
 
-1. Include the stylesheet on your document's <head>
+### 1. Include the stylesheet on your document's <head>:
 >
     <head>
       <link rel="stylesheet" href="https://madeas.ru/css/box-shadows.css">
     </head>
-or
+    
+### Include the stylesheet minimal css:
 >
     <head>
       <link rel="stylesheet" href="https://madeas.ru/css/box-shadows.min.css">
     </head>
     
+### DOWNLOAD
+
+See [box-shadows.css][link1] and [box-shadows.min.css][link1]
+    
+### CDN 
+>
+    <head>
+      <link rel="stylesheet" href="/box-shadows.min.css">
+    </head>
+
 2. Add the class <code>bShadow</code> to the block you want to use.
 
 3. Finally you need change <code>bShadow</code> or to add one of the following classes. For example <code>bShadow-1</code>.
-* Now the collection consists of 12 shadows
+* Now the collection consists of 17 shadows
 
 Full example:
 >
@@ -54,3 +65,5 @@ In the process of creating shadow names. I will be grateful for the help.
 
 [link1]: https://jsfiddle.net/madeas/o7v3awLs/
 [link2]: https://jsfiddle.net/madeas/o7v3awLs/1/
+[link3]: https://madeas.ru/css/box-shadows.css
+[link4]: https://madeas.ru/css/box-shadows.min.css
