@@ -127,3 +127,21 @@
   -moz-box-shadow: -10px 10px 32px 0 rgba(62,57,107,0.28), 0 0 0 transparent;
   box-shadow: -10px 10px 32px 0 rgba(62,57,107,0.28), 0 0 0 transparent;
 }
+.bShadow-19,
+.bShadow-19h:hover {
+  -webkit-box-shadow: 0 0 1px rgba(57,70,78,.15), 0 20px 55px -8px rgba(57,70,78,.25);
+  -moz-box-shadow: 0 0 1px rgba(57,70,78,.15), 0 20px 55px -8px rgba(57,70,78,.25);
+  box-shadow: 0 0 1px rgba(57,70,78,.15), 0 20px 55px -8px rgba(57,70,78,.25);
+}
+.bShadow-20,
+.bShadow-20h:hover {
+  -webkit-box-shadow: 0 15px 35px rgba(0,0,0,.1),0 3px 10px rgba(0,0,0,.07);
+  -moz-box-shadow: 0 15px 35px rgba(0,0,0,.1),0 3px 10px rgba(0,0,0,.07);
+  box-shadow: 0 15px 35px rgba(0,0,0,.1),0 3px 10px rgba(0,0,0,.07);
+}
+.bShadow-21,
+.bShadow-21h:hover {
+  -webkit-box-shadow: 0px 3px 3px 0px rgba(0,0,0,0.1);
+  -moz-box-shadow: 0px 3px 3px 0px rgba(0,0,0,0.1);
+  box-shadow: 0px 3px 3px 0px rgba(0,0,0,0.1);
+}
