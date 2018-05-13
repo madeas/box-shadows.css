@@ -53,7 +53,7 @@ Full example:
 >
     <div class="bShadow bShadow-1 bShadow-3h">Example</div>
 
-See [example][link2]
+See [example][link2] block one (bShadow) / try, experiment, use whatever you want and how you want!
 
 ## Usage
 To use box-shadows.css in your website, simply drop the stylesheet into your document's <code>head</code>, and add the class <code>bShadow</code> to an element, along with any of the <code>shadow names</code> or singly. That's all! You've got a CSS block with shadow.
