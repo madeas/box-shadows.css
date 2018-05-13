@@ -3,7 +3,7 @@ A collection of CSS box-shadows. As easy to use as an easy thing.
 
 <code>box-shadows.css</code> a bunch of cool and fun shadows for you to use in your projects. Great for tables, homepages content, containers, navigation and other blocks your website.
 
-* Now the collection consists of 18 shadows with number, bShadow and bShadow-light.
+* Now the collection consists of 21 shadows with number, bShadow and bShadow-light.
 
 ## Basic Usage
 
