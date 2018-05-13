@@ -67,6 +67,6 @@ In the process of creating shadow names. I will be grateful for the help.
 * in search of server
 
 [link1]: https://jsfiddle.net/madeas/o7v3awLs/5/
-[link2]: https://jsfiddle.net/madeas/o7v3awLs/1/
+[link2]: https://jsfiddle.net/madeas/o7v3awLs/9/
 [link3]: https://madeas.ru/css/box-shadows.css
 [link4]: https://madeas.ru/css/box-shadows.min.css
