@@ -33,7 +33,7 @@ See [box-shadows.css][link3] and [box-shadows.min.css][link4]
 ### 2. Add the class
 Add the class<code>bShadow</code> to the block you want to use.
 
-### 3. Add the class name
+### 3. Add the class number
 Finally you need change <code>bShadow</code> or to add one of the classes. For example <code>bShadow-1</code>:
 
 Full example:
@@ -71,7 +71,7 @@ Full example for <code>.bShadow-3</code>
  See [example on JSfiddle][link5]
 
 ## Usage
-To use box-shadows.css in your website, simply drop the stylesheet into your document's <code>head</code>, and add the class <code>bShadow</code> to an element, along with any of the <code>shadow names</code> or singly + hover effect. That's all! You've got a CSS block with shadow.
+To use box-shadows.css in your website, simply drop the stylesheet into your document's <code>head</code>, and add the class <code>bShadow</code> to an element, along with any of the <code>bShadow-number</code> or singly + <code>hover</code> effect and <code>inset</code>, optional. That's all! You've got a CSS block with shadow.
 
 ## License
 Box-shadows.css.css is licensed under the MIT license. (http://opensource.org/licenses/MIT)
