@@ -58,7 +58,7 @@ Full example:
 
 See [example on JSfiddle][link2] block one (bShadow) / try, experiment, use whatever you want and how you want!
 
-## 5. Adding the <code>&lt;inset&gt;</code> parameter
+## 5. Adding the <code>inset</code> parameter
 To add a parameter, just insert the script on the html page and specify in it the classes for which you want to apply it.
 
 Full example for <code>.bShadow-3</code>
