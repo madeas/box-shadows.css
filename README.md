@@ -7,31 +7,34 @@ A collection of CSS box-shadows. As easy to use as an easy thing.
 
 ## Basic Usage
 
-### 1. Include the stylesheet on your document's <code>&lt;head&gt;</code>
+### 1. Include the stylesheet
+1a. Include the stylesheet on your document's <code>&lt;head&gt;</code>
 >
     <head>
       <link rel="stylesheet" href="https://madeas.ru/css/box-shadows.css">
     </head>
     
-### Include the stylesheet minimal css:
+1b. Include the stylesheet minimal css:
 >
     <head>
       <link rel="stylesheet" href="https://madeas.ru/css/box-shadows.min.css">
     </head>
     
-### Download
+1c. Download
 
 See [box-shadows.css][link3] and [box-shadows.min.css][link4]
     
-### Instead of installing you may use the remote version (hosted by CDN):*
+1d. Instead of installing you may use the remote version (hosted by CDN):*
 >
     <head>
       <link rel="stylesheet" href="../box-shadows.min.css">
     </head>
 
-2. Add the class <code>bShadow</code> to the block you want to use.
+### 2. Add the class
+Add the class<code>bShadow</code> to the block you want to use.
 
-3. Finally you need change <code>bShadow</code> or to add one of the following classes. For example <code>bShadow-1</code>:
+### 3. Add the class name
+Finally you need change <code>bShadow</code> or to add one of the classes. For example <code>bShadow-1</code>:
 
 Full example:
 >
@@ -45,9 +48,9 @@ or
 
 See [example on JSfiddle][link1]
 
-## Hover effect
+## 4. Hover effect
 
-4. Add the class <code>h</code> to the element <code>bShadow-1</code> to create an hover effect.
+Add the class <code>h</code> to the element <code>bShadow-1</code> to create an hover effect.
 
 Full example:
 >
@@ -55,7 +58,7 @@ Full example:
 
 See [example on JSfiddle][link2] block one (bShadow) / try, experiment, use whatever you want and how you want!
 
-## Adding the inset parameter
+## 5. Adding the <code>&lt;inset&gt;</code> parameter
 To add a parameter, just insert the script on the html page and specify in it the classes for which you want to apply it.
 
 Full example for <code>.bShadow-3</code>
