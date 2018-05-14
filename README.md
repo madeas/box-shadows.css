@@ -68,7 +68,7 @@ Full example for <code>.bShadow-3</code>
  See [example on JSfiddle][link5]
 
 ## Usage
-To use box-shadows.css in your website, simply drop the stylesheet into your document's <code>head</code>, and add the class <code>bShadow</code> to an element, along with any of the <code>shadow names</code> or singly. That's all! You've got a CSS block with shadow.
+To use box-shadows.css in your website, simply drop the stylesheet into your document's <code>head</code>, and add the class <code>bShadow</code> to an element, along with any of the <code>shadow names</code> or singly + hover effect. That's all! You've got a CSS block with shadow.
 
 ## License
 Box-shadows.css.css is licensed under the MIT license. (http://opensource.org/licenses/MIT)
