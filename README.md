@@ -43,7 +43,7 @@ or
 >   
     <div class="bShadow bShadow-1">Example</div>
 
-See [example][link1]
+See [example on JSfiddle][link1]
 
 ## Hover effect
 
@@ -53,7 +53,7 @@ Full example:
 >
     <div class="bShadow bShadow-1 bShadow-3h">Example</div>
 
-See [example][link2] block one (bShadow) / try, experiment, use whatever you want and how you want!
+See [example on JSfiddle][link2] block one (bShadow) / try, experiment, use whatever you want and how you want!
 
 ## Adding the inset parameter
 To add a parameter, just insert the script on the html page and specify in it the classes for which you want to apply it.
@@ -78,7 +78,7 @@ In the process of creating shadow names. I will be grateful for the help.
 
 * in search of server
 
-[link1]: https://jsfiddle.net/madeas/o7v3awLs/5/
+[link1]: https://jsfiddle.net/madeas/o7v3awLs/11/
 [link2]: https://jsfiddle.net/madeas/o7v3awLs/9/
 [link5]: https://jsfiddle.net/madeas/o7v3awLs/10/
 [link3]: https://madeas.ru/css/box-shadows.css
