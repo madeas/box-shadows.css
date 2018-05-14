@@ -1,9 +1,7 @@
 # Box-shadows.css <a href="/LICENSE"><img src="http://madeas.ru/img/git/license.svg" alt="license"></a> <a href="/CHANGELOG.md"><img src="http://madeas.ru/img/git/changelog.svg" alt="changelog"></a> <a href="https://github.com/madeas/box-shadows.css/releases"><img src="http://madeas.ru/img/git/release.svg" alt="releases"></a> <a href="https://cdnjs.com/"><img src="http://madeas.ru/img/git/cdnjs.svg" alt="cdn"></a> <a href="https://gitter.im/andrejsharapov/box-shadows.css"><img src="http://madeas.ru/img/git/gitter.svg" alt="chat gitter"></a>
-A collection of CSS box-shadows. As easy to use as an easy thing.
+A cross-browser collection of CSS box-shadows. Try, experiment, use whatever you want and how you want!
 
 <code>box-shadows.css</code> a bunch of cool and fun shadows for you to use in your projects. Great for tables, homepages content, containers, navigation and other blocks your website.
-
-* Now the collection consists of 21 shadows with number, bShadow and bShadow-light.
 
 ## Basic Usage
 
@@ -35,7 +33,9 @@ See [box-shadows.css][link3] and [box-shadows.min.css][link4]
 Add the class<code>bShadow</code> to the block you want to use.
 
 ### 3. Add the class number
-Finally you need change <code>bShadow</code> or to add one of the classes. For example <code>bShadow-1</code>:
+Finally you need change <code>bShadow</code> or to add one of the classes. 
+
+* Now the collection consists of 21 shadows with number, bShadow and bShadow-light.
 
 Full example:
 >
