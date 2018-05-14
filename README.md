@@ -55,6 +55,18 @@ Full example:
 
 See [example][link2] block one (bShadow) / try, experiment, use whatever you want and how you want!
 
+## Adding the inset parameter
+To add a parameter, just insert the script on the html page and specify in it the classes for which you want to apply it.
+
+Full example for <code>.bShadow-3</code>
+>
+    [].forEach.call(document.querySelectorAll('.bShadow-3'), function(node) {
+	    var bsh = getComputedStyle(node).boxShadow;
+	    node.style.boxShadow = "inset "+bsh;
+    });
+    
+ See [example on JSfiddle][link5]
+
 ## Usage
 To use box-shadows.css in your website, simply drop the stylesheet into your document's <code>head</code>, and add the class <code>bShadow</code> to an element, along with any of the <code>shadow names</code> or singly. That's all! You've got a CSS block with shadow.
 
@@ -68,5 +80,6 @@ In the process of creating shadow names. I will be grateful for the help.
 
 [link1]: https://jsfiddle.net/madeas/o7v3awLs/5/
 [link2]: https://jsfiddle.net/madeas/o7v3awLs/9/
+[link5]: https://jsfiddle.net/madeas/o7v3awLs/10/
 [link3]: https://madeas.ru/css/box-shadows.css
 [link4]: https://madeas.ru/css/box-shadows.min.css
