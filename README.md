@@ -96,8 +96,8 @@ Box-shadows.css.css is licensed under the MIT license. (http://opensource.org/li
 ## Contributing
 In the process of creating shadow names. I will be grateful for the help.
 
-[link1]: https://madeas.ru/css/box-shadows.css "box-shadows.css"
-[link2]: https://madeas.ru/css/box-shadows.min.css "box-shadows.min.css"
+[link1]: https://madeas.github.io/box-shadows.css "box-shadows.css"
+[link2]: https://madeas.github.io/box-shadows.min.css "box-shadows.min.css"
 [link3]: https://madeas.github.io/box-shadows "all blocks with box-shadow"
 [link4]: https://jsfiddle.net/madeas/8at5r1bL/1/ "hover effect"
 [link5]: https://jsfiddle.net/madeas/8at5r1bL/ "animation"
