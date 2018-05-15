@@ -9,25 +9,23 @@ A cross-browser collection of CSS box-shadows. Try, experiment, use whatever you
 1a. Include the stylesheet on your document's <code>&lt;head&gt;</code>
 >
     <head>
-      <link rel="stylesheet" href="https://madeas.ru/css/box-shadows.css">
+      <link rel="stylesheet" href="https://madeas.github.io/box-shadows.css">
     </head>
     
 1b. Include the stylesheet minimal css:
 >
     <head>
-      <link rel="stylesheet" href="https://madeas.ru/css/box-shadows.min.css">
+      <link rel="stylesheet" href="https://madeas.github.io/box-shadows.min.css">
     </head>
     
 1c. Download
 
 See [box-shadows.css][link1] and [box-shadows.min.css][link2]
-    
-1d. Instead of installing you may use the remote version (hosted by CDN):*
+
 >
     <head>
       <link rel="stylesheet" href="../box-shadows.min.css">
     </head>
-*in search of cdn platform
 
 ### 2. Add the class
 Add the class<code>bShadow</code> to the block you want to use.
