@@ -49,7 +49,7 @@ or one block with number
 
 * Now the collection consists of <b>45 shadows with number</b>, bShadow, bShadow-light and bShadow-inset.
 
-See [example on JSfiddle][link3]
+See [example][link3]
 
 ## 4. Hover effect
 
