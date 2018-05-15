@@ -100,7 +100,7 @@ In the process of creating shadow names. I will be grateful for the help.
 
 [link1]: https://madeas.ru/css/box-shadows.css "box-shadows.css"
 [link2]: https://madeas.ru/css/box-shadows.min.css "box-shadows.min.css"
-[link3]: https://madeas.github.io/box-shadows"all blocks with box-shadow"
+[link3]: https://madeas.github.io/box-shadows "all blocks with box-shadow"
 [link4]: https://jsfiddle.net/madeas/8at5r1bL/1/ "hover effect"
 [link5]: https://jsfiddle.net/madeas/8at5r1bL/ "animation"
 [link6]: https://jsfiddle.net/madeas/8at5r1bL/3/ "inset javascript"
