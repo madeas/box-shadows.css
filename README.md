@@ -1,4 +1,7 @@
-# <img src="https://github.com/madeas/box-shadows.css/blob/master/logo.png?raw=true" alt="logo"> Box-shadows.css <a href="/CHANGELOG.md"><img src="http://madeas.ru/img/git/changelog.svg" alt="changelog"></a> <a href="https://github.com/madeas/box-shadows.css/releases"><img src="http://madeas.ru/img/git/release01.svg" alt="releases"></a> <a href="#"><img src="http://madeas.ru/img/git/cdn01.svg" alt="cdn"></a> <a href="https://gitter.im/andrejsharapov/box-shadows.css"><img src="http://madeas.ru/img/git/gitter.svg" alt="chat gitter"></a> <a href="/LICENSE"><img src="http://madeas.ru/img/git/license.svg" alt="license"></a>
+# Box-shadows.css <a href="/CHANGELOG.md"><img src="http://madeas.ru/img/git/changelog.svg" alt="changelog"></a> <a href="https://github.com/madeas/box-shadows.css/releases"><img src="http://madeas.ru/img/git/release01.svg" alt="releases"></a> <a href="#"><img src="http://madeas.ru/img/git/cdn01.svg" alt="cdn"></a> <a href="https://gitter.im/andrejsharapov/box-shadows.css"><img src="http://madeas.ru/img/git/gitter.svg" alt="chat gitter"></a> <a href="/LICENSE"><img src="http://madeas.ru/img/git/license.svg" alt="license"></a>
+
+<p><a href="https://github.com/madeas/box-shadows.css"><img src="https://github.com/madeas/box-shadows.css/blob/master/bslt.png?raw=true" alt="Logo" width="72" height="72" align="right" data-canonical-src="https://necolas.github.io/normalize.css/logo.svg" style="max-width:100%;"></a></p>
+
 A cross-browser collection of CSS box-shadows. Try, experiment, use whatever you want and how you want!
 
 <code>box-shadows.css</code> a bunch of simple and pleasant shadows for you to use in your projects. Great for tables, homepages content, containers, navigation and other blocks your website.
