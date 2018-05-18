@@ -95,7 +95,7 @@ Full example for <code>.bShadow-1</code>. A point in front of the class is requi
 
     
 ## WordPress Function.php  
-Use the library by installing this line in the file function.php of your theme on <b>WordPress</b>.
+Use the library by installing this line in the file <b>function.php</b> of your theme on <b>WordPress</b>.
 
 >	
 	wp_enqueue_style( 'bShadows-style', '//madeas.github.io/box-shadows.min.css', array(), '1.0.1'  );
