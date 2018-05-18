@@ -11,43 +11,44 @@ A cross-browser collection of CSS box-shadows. Try, experiment, use whatever you
 ### 1. Include the stylesheet
 1a. Include the stylesheet on your document's <code>&lt;head&gt;</code>
 
-<pre>&lt;<span class="pl-ent">head</span>&gt;
-&lt;<span class="pl-ent">link</span> <span class="pl-e">rel</span>=<span class="pl-s"><span class="pl-pds">"</span>stylesheet<span class="pl-pds">"</span></span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">"</span>https://madeas.github.io/box-shadows.css<span class="pl-pds">"</span></span>&gt;
-&lt;/<span class="pl-ent">head</span>&gt;
-</pre>
+>
+	<head>
+		<link rel="stylesheet" href="https://madeas.github.io/box-shadows.css">
+	</head>
     
 1b. Include the stylesheet minimal css:
-<pre>&lt;<span class="pl-ent">head</span>&gt;
-&lt;<span class="pl-ent">link</span> <span class="pl-e">rel</span>=<span class="pl-s"><span class="pl-pds">"</span>stylesheet<span class="pl-pds">"</span></span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">"</span>https://madeas.github.io/box-shadows.min.css<span class="pl-pds">"</span></span>&gt;
-&lt;/<span class="pl-ent">head</span>&gt;
-</pre>
+
+>
+	<head>
+		<link rel="stylesheet" href="https://madeas.github.io/box-shadows.min.css">
+	</head>
     
 1c. Download
 
 See [box-shadows.css][link1] and [box-shadows.min.css][link2]
 
-<pre>&lt;<span class="pl-ent">head</span>&gt;
-&lt;<span class="pl-ent">link</span> <span class="pl-e">rel</span>=<span class="pl-s"><span class="pl-pds">"</span>stylesheet<span class="pl-pds">"</span></span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">"</span>box-shadows.css<span class="pl-pds">"</span></span>&gt;
-&lt;/<span class="pl-ent">head</span>&gt;
-</pre>
+>
+	<head>
+		<link rel="stylesheet" href="box-shadows.css">
+	</head>
 
 ### 2. Add the class
 Add the class <code>bShadow</code> to the block you want to use.
 
 Full example:
 
-<pre>&lt;<span class="pl-ent">div</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>bShadow<span class="pl-pds">"</span></span>&gt;&lt;/<span class="pl-ent">div</span>&gt;
-</pre>
+>
+	<div class="bShadow"></div>
 
 ### 3. Add the class number
 Finally you need change <code>bShadow</code> or to add one of the classes. 
 
 Full example:
 
-<pre>&lt;<span class="pl-ent">div</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>bShadow bShadow-1<span class="pl-pds">"</span></span>&gt;&lt;/<span class="pl-ent">div</span>&gt;
-<span class="pl-c"><span class="pl-c">&lt;!--</span> or <span class="pl-c">--&gt;</span></span>
-&lt;<span class="pl-ent">div</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>bShadow-1<span class="pl-pds">"</span></span>&gt;&lt;/<span class="pl-ent">div</span>&gt;
-</pre>
+>
+	<div class="bShadow bShadow-1"></div>
+		<!-- or -->
+	<div class="bShadow-1"></div>
 
 * Now the collection consists of <b>45 shadows with number</b>, bShadow, bShadow-light and bShadow-inset.
 
@@ -59,8 +60,8 @@ Add the class <code>h</code> to the element <code>bShadow-1</code> to create an 
 
 Full example:
 
-<pre rel="Code">&lt;<span class="pl-ent">div</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>bShadow bShadow-1h<span class="pl-pds">"</span></span>&gt;&lt;/<span class="pl-ent">div</span>&gt;
-</pre>
+>
+	<div class="bShadow bShadow-1h"></div>
 
 See [example on JSfiddle][link4] block one (.bShadow) / try, experiment, use whatever you want and how you want!
 
