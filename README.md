@@ -13,14 +13,14 @@ A cross-browser collection of CSS box-shadows. Try, experiment, use whatever you
 
 >
 	<head>
-		<link rel="stylesheet" href="https://madeas.github.io/box-shadows.css">
+	  <link rel="stylesheet" href="https://madeas.github.io/box-shadows.css">
 	</head>
     
 1b. Include the stylesheet minimal css:
 
 >
 	<head>
-		<link rel="stylesheet" href="https://madeas.github.io/box-shadows.min.css">
+	  <link rel="stylesheet" href="https://madeas.github.io/box-shadows.min.css">
 	</head>
     
 1c. Download
@@ -29,7 +29,7 @@ See [box-shadows.css][link1] and [box-shadows.min.css][link2]
 
 >
 	<head>
-		<link rel="stylesheet" href="box-shadows.css">
+	  <link rel="stylesheet" href="box-shadows.css">
 	</head>
 
 ### 2. Add the class
@@ -47,7 +47,7 @@ Full example:
 
 >
 	<div class="bShadow bShadow-1"></div>
-		<!-- or -->
+	  <!-- or -->
 	<div class="bShadow-1"></div>
 
 * Now the collection consists of <b>45 shadows with number</b>, bShadow, bShadow-light and bShadow-inset.
