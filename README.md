@@ -31,7 +31,7 @@ See [box-shadows.css][link1] and [box-shadows.min.css][link2]
     </head>
 
 ### 2. Add the class
-Add the class<code>bShadow</code> to the block you want to use.
+Add the class <code>bShadow</code> to the block you want to use.
 
 Full example:
 >
