@@ -10,43 +10,44 @@ A cross-browser collection of CSS box-shadows. Try, experiment, use whatever you
 
 ### 1. Include the stylesheet
 1a. Include the stylesheet on your document's <code>&lt;head&gt;</code>
->
-    <head>
-      <link rel="stylesheet" href="https://madeas.github.io/box-shadows.css">
-    </head>
+
+<pre>&lt;<span class="pl-ent">head</span>&gt;
+&lt;<span class="pl-ent">link</span> <span class="pl-e">rel</span>=<span class="pl-s"><span class="pl-pds">"</span>stylesheet<span class="pl-pds">"</span></span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">"</span>https://madeas.github.io/box-shadows.css<span class="pl-pds">"</span></span>&gt;
+&lt;/<span class="pl-ent">head</span>&gt;
+</pre>
     
 1b. Include the stylesheet minimal css:
->
-    <head>
-      <link rel="stylesheet" href="https://madeas.github.io/box-shadows.min.css">
-    </head>
+<pre>&lt;<span class="pl-ent">head</span>&gt;
+&lt;<span class="pl-ent">link</span> <span class="pl-e">rel</span>=<span class="pl-s"><span class="pl-pds">"</span>stylesheet<span class="pl-pds">"</span></span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">"</span>https://madeas.github.io/box-shadows.min.css<span class="pl-pds">"</span></span>&gt;
+&lt;/<span class="pl-ent">head</span>&gt;
+</pre>
     
 1c. Download
 
 See [box-shadows.css][link1] and [box-shadows.min.css][link2]
 
->
-    <head>
-      <link rel="stylesheet" href="../box-shadows.min.css">
-    </head>
+<pre>&lt;<span class="pl-ent">head</span>&gt;
+&lt;<span class="pl-ent">link</span> <span class="pl-e">rel</span>=<span class="pl-s"><span class="pl-pds">"</span>stylesheet<span class="pl-pds">"</span></span> <span class="pl-e">href</span>=<span class="pl-s"><span class="pl-pds">"</span>box-shadows.css<span class="pl-pds">"</span></span>&gt;
+&lt;/<span class="pl-ent">head</span>&gt;
+</pre>
 
 ### 2. Add the class
 Add the class <code>bShadow</code> to the block you want to use.
 
 Full example:
->
-    <div class="bShadow">Example</div> 
+
+<pre>&lt;<span class="pl-ent">div</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>bShadow<span class="pl-pds">"</span></span>&gt;&lt;/<span class="pl-ent">div</span>&gt;
+</pre>
 
 ### 3. Add the class number
 Finally you need change <code>bShadow</code> or to add one of the classes. 
 
 Full example:
->   
-    <div class="bShadow bShadow-1">Example</div>
 
-or one block with number
->   
-    <div class="bShadow-1">Example</div>
+<pre>&lt;<span class="pl-ent">div</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>bShadow bShadow-1<span class="pl-pds">"</span></span>&gt;&lt;/<span class="pl-ent">div</span>&gt;
+<span class="pl-c"><span class="pl-c">&lt;!--</span> or <span class="pl-c">--&gt;</span></span>
+&lt;<span class="pl-ent">div</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>bShadow-1<span class="pl-pds">"</span></span>&gt;&lt;/<span class="pl-ent">div</span>&gt;
+</pre>
 
 * Now the collection consists of <b>45 shadows with number</b>, bShadow, bShadow-light and bShadow-inset.
 
@@ -57,8 +58,9 @@ See [example][link3]
 Add the class <code>h</code> to the element <code>bShadow-1</code> to create an hover effect.
 
 Full example:
->
-    <div class="bShadow bShadow-1h">bShadow</div>
+
+<pre rel="Code">&lt;<span class="pl-ent">div</span> <span class="pl-e">class</span>=<span class="pl-s"><span class="pl-pds">"</span>bShadow bShadow-1h<span class="pl-pds">"</span></span>&gt;&lt;/<span class="pl-ent">div</span>&gt;
+</pre>
 
 See [example on JSfiddle][link4] block one (.bShadow) / try, experiment, use whatever you want and how you want!
 
@@ -89,6 +91,14 @@ Full example for <code>.bShadow-1</code>. A point in front of the class is requi
     });
     
  See [example on JSfiddle][link6]
+
+    
+## WordPress Function.php  
+Use the library by installing this line in the file function.php of your theme on <b>WordPress</b>:
+
+>	
+	wp_enqueue_style( 'bShadows-style', '//madeas.github.io/box-shadows.min.css', array(), '1.0.1'  );
+
 
 ## Usage
 To use box-shadows.css in your website, simply drop the stylesheet into your document's <code>&lt;head&gt;</code>, and add the class <code>bShadow</code> to an element, along with any of the <code>bShadow-number</code> or singly + <code>hover</code> effect and js <code>inset</code>. Optional. That's all! You've got a CSS block with shadow.
