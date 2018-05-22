@@ -102,6 +102,13 @@ To update the version, change <code>1.0.1</code> on new.
 ## Usage
 To use box-shadows.css in your website, simply drop the stylesheet into your document's <code>&lt;head&gt;</code>, and add the class <code>bShadow</code> to an element, along with any of the <code>bShadow-number</code> or singly + <code>hover</code> effect and js <code>inset</code>. Optional. That's all! You've got a CSS block with shadow.
 
+## Generator the file box-shadows.min.css
+If you do not want to connect the entire library to your site, you can <b>generate</b> your own file <b>min.css</b> from the selected classes.
+1. go to the site [https://madeas.github.io/box-shadows][link3]
+2. сlick the button "show in blocks" and follow the instruction
+3. finally click the "download" button and connect the downloaded file to your site
+It great!
+
 ## License
 Box-shadows.css.css is licensed under the MIT license. (http://opensource.org/licenses/MIT)
 
