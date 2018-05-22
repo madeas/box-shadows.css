@@ -46,8 +46,6 @@ Finally you need change <code>bShadow</code> or to add one of the classes.
 Full example:
 
 >
-	<div class="bShadow bShadow-1"></div>
-	  <!-- or -->
 	<div class="bShadow-1"></div>
 
 * Now the collection consists of <b>45 shadows with number</b>, bShadow, bShadow-light and bShadow-inset.
@@ -61,7 +59,7 @@ Add the class <code>h</code> to the element <code>bShadow-1</code> to create an 
 Full example:
 
 >
-	<div class="bShadow bShadow-1h"></div>
+	<div class="bShadow-38 bShadow-1h"></div>
 
 See [example on JSfiddle][link4] block one (.bShadow) / try, experiment, use whatever you want and how you want!
 
