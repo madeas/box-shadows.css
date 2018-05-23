@@ -2,7 +2,7 @@
 
 <p><a href="https://github.com/madeas/box-shadows.css"><img src="https://github.com/madeas/box-shadows.css/blob/master/logotype.png?raw=true" alt="Logo" width="74" height="74" align="right" data-canonical-src="https://necolas.github.io/normalize.css/logo.svg" style="max-width:100%;"></a></p>
 
-A cross-browser collection of CSS box-shadows. Try, experiment, use whatever you want and how you want!
+A cross-browser collection of CSS box-shadow. Try, experiment, use whatever you want and how you want!
 
 <code>box-shadows.css</code> a bunch of simple and pleasant shadows for you to use in your projects. Great for tables, homepages content, containers, navigation and other blocks your website.
 
