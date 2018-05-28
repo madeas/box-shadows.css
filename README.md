@@ -29,7 +29,7 @@ See [box-shadows.css][link1] and [box-shadows.min.css][link2]
 
 >
 	<head>
-	  <link rel="stylesheet" href="box-shadows.min.css">
+	  <link rel="stylesheet" href="/box-shadows.min.css">
 	</head>
 	
 You can use the [generator][link7] to create your own minimal file and reduce the load on the site.
