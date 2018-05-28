@@ -4,7 +4,7 @@
 
 A cross-browser collection of CSS box-shadow. Try, experiment, use whatever you want and how you want!
 
-<code>box-shadows.css</code> a bunch of simple and pleasant shadows for you to use in your projects. Great for tables, homepages content, containers, navigation and other blocks your website.
+<code>box-shadows.css</code> a collection of simple and pleasant shadows for you to use in your projects. Great for tables, homepages content, containers, navigation and other blocks your website.
 
 ## Basic Usage
 
