@@ -98,8 +98,8 @@ Full example for <code>.bShadow-1</code>. A point in front of the class is requi
 Use the library by including the stylesheet in your <b>function.php</b> your theme in <b>WordPress</b>.
 
 >	
-	wp_enqueue_style( 'bShadows-style', '//madeas.github.io/box-shadows.min.css', array(), '1.0.1'  );
-To update the version, change <code>1.0.1</code> on new.
+	wp_enqueue_style( 'bShadows-style', '//madeas.github.io/box-shadows.min.css', array(), '1.0.2'  );
+To update the version, change <code>1.0.2</code> on new.
 
 ## Usage
 To use box-shadows.css in your website, simply drop the stylesheet into your document's <code>&lt;head&gt;</code>, and add the class <code>bShadow</code> to an element, along with any of the <code>bShadow-number</code> or singly + <code>hover</code> effect and js <code>inset</code>. Optional. That's all! You've got a CSS block with shadow.
