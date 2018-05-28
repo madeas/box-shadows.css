@@ -115,7 +115,7 @@ It great!
 Box-shadows.css.css is licensed under the MIT license. (http://opensource.org/licenses/MIT)
 
 ## Contributing
-In the process of creating shadow names. I will be grateful for the help.
+If you have any suggestions, or you find an error, tell me in [twitter][link8] @andrejsharapov. I will answer you.
 
 [link1]: https://madeas.github.io/box-shadows.css "box-shadows.css"
 [link2]: https://madeas.github.io/box-shadows.min.css "box-shadows.min.css"
@@ -124,3 +124,4 @@ In the process of creating shadow names. I will be grateful for the help.
 [link5]: https://jsfiddle.net/madeas/8at5r1bL/ "animation"
 [link6]: https://jsfiddle.net/madeas/8at5r1bL/3/ "inset javascript"
 [link7]: #generator-the-file-box-shadowsmincss "generator min.css"
+[link8]: https://twitter.com/andrejsharapov "twitter"
