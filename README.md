@@ -29,8 +29,10 @@ See [box-shadows.css][link1] and [box-shadows.min.css][link2]
 
 >
 	<head>
-	  <link rel="stylesheet" href="box-shadows.css">
+	  <link rel="stylesheet" href="box-shadows.min.css">
 	</head>
+	
+You can use the [generator][link7] to create your own minimal file and reduce the load on the site.
 
 ### 2. Add the class
 Add the class <code>bShadow</code> to the block you want to use.
@@ -121,3 +123,4 @@ In the process of creating shadow names. I will be grateful for the help.
 [link4]: https://jsfiddle.net/madeas/8at5r1bL/1/ "hover effect"
 [link5]: https://jsfiddle.net/madeas/8at5r1bL/ "animation"
 [link6]: https://jsfiddle.net/madeas/8at5r1bL/3/ "inset javascript"
+[link7]: #generator-the-file-box-shadowsmincss "generator min.css"
