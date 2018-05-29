@@ -2,7 +2,7 @@
 
 <p><a href="https://github.com/madeas/box-shadows.css"><img src="https://github.com/madeas/box-shadows.css/blob/master/logotype.png?raw=true" alt="Logo" width="74" height="74" align="right" data-canonical-src="https://necolas.github.io/normalize.css/logo.svg" style="max-width:100%;"></a></p>
 
-A cross-browser collection of CSS box-shadow. Try, experiment, use whatever you want and how you want!
+A cross-browser collection of CSS box-shadow. Try, experiment or use whatever you want and how you want!
 
 <code>box-shadows.css</code> a collection of simple and pleasant shadows for you to use in your projects. Great for tables, homepages content, containers, navigation and other blocks your website.
 
@@ -15,14 +15,14 @@ A cross-browser collection of CSS box-shadow. Try, experiment, use whatever you 
 	<head>
 	  <link rel="stylesheet" href="https://madeas.github.io/box-shadows.css">
 	</head>
-    
+
 1b. Include the stylesheet minimal css:
 
 >
 	<head>
 	  <link rel="stylesheet" href="https://madeas.github.io/box-shadows.min.css">
 	</head>
-    
+
 1c. Download
 
 See [box-shadows.css][link1] and [box-shadows.min.css][link2]
@@ -43,7 +43,7 @@ Full example:
 	<div class="bShadow"></div>
 
 ### 3. Add the class number
-Finally you need change <code>bShadow</code> or to add one of the classes. 
+Finally you need change <code>bShadow</code> or to add one of the classes.
 
 Full example:
 
@@ -77,7 +77,7 @@ Use this to make a beautiful animation of your blocks. For example,
   		transform: translateY(-5px) translateZ(0); 
 	</style>
 	<div class="bShadow transform-translateY-5 bShadow-1h">bShadow</div>
-	
+
 See [example on JSfiddle][link5]
 
 ## 6. Adding the <code>inset</code> parameter
@@ -90,14 +90,13 @@ Full example for <code>.bShadow-1</code>. A point in front of the class is requi
 	    var bsh = getComputedStyle(node).boxShadow;
 	    node.style.boxShadow = "inset "+bsh;
     });
-    
+
  See [example on JSfiddle][link6]
 
-    
 ## WordPress Function.php  
 Use the library by including the stylesheet in your <b>function.php</b> your theme in <b>WordPress</b>.
 
->	
+>
 	wp_enqueue_style( 'bShadows-style', '//madeas.github.io/box-shadows.min.css', array(), '1.0.2'  );
 To update the version, change <code>1.0.2</code> on new.
 
