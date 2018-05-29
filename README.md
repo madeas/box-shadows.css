@@ -74,7 +74,7 @@ Use this to make a beautiful animation of your blocks. For example,
 	<style>
 	.transform-translateY-5:hover {
   		-webkit-transform: translateY(-5px) translateZ(0);
-  		transform: translateY(-5px) translateZ(0); 
+  		transform: translateY(-5px) translateZ(0);
 	</style>
 	<div class="bShadow transform-translateY-5 bShadow-1h">bShadow</div>
 
