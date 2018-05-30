@@ -110,6 +110,9 @@ If you do not want to connect the entire library to your site, you can <b>genera
 3. finally click the "download" button and connect the downloaded file to your site
 It great!
 
+## Box-shadow CSS Generator
+Use the [generator css box-shadow][link9] and complete the collection with your own styles. By clicking the "save and add the next" button, you can create several more classes. Then, copy the received styles and paste into your or created min.css file.
+
 ## License
 Box-shadows.css.css is licensed under the MIT license. (http://opensource.org/licenses/MIT)
 
@@ -124,3 +127,4 @@ If you have any suggestions, or you find an error, tell me in [twitter][link8] @
 [link6]: https://jsfiddle.net/madeas/8at5r1bL/3/ "inset javascript"
 [link7]: #generator-the-file-box-shadowsmincss "generator min.css"
 [link8]: https://twitter.com/andrejsharapov "twitter"
+[link9]: https://madeas.github.io/box-shadows#gen "Box-shadow CSS Generator"
