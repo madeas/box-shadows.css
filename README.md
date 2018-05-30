@@ -2,7 +2,11 @@
 
 <p><a href="https://github.com/madeas/box-shadows.css"><img src="https://github.com/madeas/box-shadows.css/blob/master/logotype.png?raw=true" alt="Logo" width="74" height="74" align="right" data-canonical-src="https://necolas.github.io/normalize.css/logo.svg" style="max-width:100%;"></a></p>
 
-A cross-browser collection of CSS box-shadow. Try, experiment or use whatever you want and how you want!
+A cross-browser collection of CSS box-shadow  
+	+ Generator the file box-shadows.min.css  
+	+ Box-shadow CSS Generator  
+
+<p align="center">Try, experiment, use whatever you want and how you want!</p>
 
 <code>box-shadows.css</code> a collection of simple and pleasant shadows for you to use in your projects. Great for tables, homepages content, containers, navigation and other blocks your website.
 
@@ -64,7 +68,7 @@ Finally you need to add an additional class to the existing <code>.bShadow-</cod
 <div class="bShadow-1"></div>
 ```
 
-* Now the collection consists of 53 variants of shadows with the number, as well as three additional classes: <b>.bShadow</b>, <b>.bShadow-light</b> and <b>.bShadow-inset</b>.
+* Now the collection consists of 53 variants of shadows with the number, as well as three independent classes: <b>.bShadow</b>, <b>.bShadow-light</b> and <b>.bShadow-inset</b>.
 
 See [example][link3]
 
