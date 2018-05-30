@@ -105,7 +105,7 @@ To use box-shadows.css in your website, simply drop the stylesheet into your doc
 
 ## Generator the file box-shadows.min.css
 If you do not want to connect the entire library to your site, you can <b>generate</b> your own file <b>min.css</b> from the selected classes.
-1. go to the site [https://madeas.github.io/box-shadows][link3]
+1. go to the site [https://madeas.github.io/box-shadows#gen_css][link3]
 2. сlick the button "show in blocks" and follow the instruction
 3. finally click the "download" button and connect the downloaded file to your site
 It great!
