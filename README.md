@@ -6,6 +6,21 @@ A cross-browser collection of CSS box-shadow. Try, experiment or use whatever yo
 
 <code>box-shadows.css</code> a collection of simple and pleasant shadows for you to use in your projects. Great for tables, homepages content, containers, navigation and other blocks your website.
 
+## Content
+* <a href="#basic-usage">Basic Usage</a>
+	- <a href="#1-include-the-stylesheet">Include the stylesheet</a>
+	- <a href="#2-add-the-class">Add the class</a>
+	- <a href="#3-add-the-class-number">Add the class number</a>
+	- <a href="#4-hover-effect">Hover effect</a>
+	- <a href="#5-animation-on-css-transform">Animation on CSS Transform</a>
+	- <a href="#6-adding-the-inset-parameter">Adding the inset parameter	</a>
+* <a href="#wordpress-functionphp">WordPress Function.php</a>
+* <a href="#usage">Usage</a>
+* <a href="#box-shadow-css-generator">Generator the file box-shadows.min.css</a>
+* <a href="#box-shadow-css-generator">Box-shadow CSS Generator</a>
+* <a href="#license">License</a>
+* <a href="#contributing">Contributing</a>
+
 ## Basic Usage
 
 ### 1. Include the stylesheet
