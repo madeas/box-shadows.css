@@ -134,6 +134,8 @@ Box-shadows.css.css is licensed under the MIT license. (http://opensource.org/li
 ## Contributing
 If you have any suggestions, or you find an error, tell me in [twitter][link8] @andrejsharapov. I will answer you.
 
+<a href="#content">↑ to top ↑</a>
+
 [link1]: https://madeas.github.io/box-shadows.css "box-shadows.css"
 [link2]: https://madeas.github.io/box-shadows.min.css "box-shadows.min.css"
 [link3]: https://madeas.github.io/box-shadows "all blocks with box-shadow"
