@@ -29,7 +29,7 @@ A cross-browser collection of CSS box-shadow. Try, experiment or use whatever yo
 ```html
 <head>
   <link rel="stylesheet" href="https://madeas.github.io/box-shadows.css">
-<!-- or -->
+  <!-- or -->
   <link rel="stylesheet" href="https://madeas.github.io/box-shadows.min.css">
 </head>
 ```
