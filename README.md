@@ -29,18 +29,12 @@ A cross-browser collection of CSS box-shadow. Try, experiment or use whatever yo
 ```html
 <head>
   <link rel="stylesheet" href="https://madeas.github.io/box-shadows.css">
-</head>
-```
-
-1b. Include the stylesheet min.css:
-
-```html
-<head>
+<!-- or -->
   <link rel="stylesheet" href="https://madeas.github.io/box-shadows.min.css">
 </head>
 ```
 
-1c. Download
+1b. Download
 
 See [box-shadows.css][link1] and [box-shadows.min.css][link2]
 
