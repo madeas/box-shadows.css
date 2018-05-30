@@ -76,7 +76,7 @@ See [example][link3]
 
 ## 4. Hover effect
 
-Add the class <code>h</code> to the element <code>.bShadow-1</code> to create an hover effect.
+Add the class <code>h</code> to the element <code>.bShadow-</code> to create an hover effect.
 For example,
 
 ```html
