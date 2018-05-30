@@ -15,7 +15,7 @@ A cross-browser collection of CSS box-shadow. Try, experiment or use whatever yo
 	- <a href="#5-animation-on-css-transform">Animation on CSS Transform</a>
 	- <a href="#6-adding-the-inset-parameter">Adding the inset parameter	</a>
 * <a href="#wordpress-functionphp">WordPress Function.php</a>
-* <a href="#box-shadow-css-generator">Generator the file box-shadows.min.css</a>
+* <a href="#generator-the-file-box-shadowsmincss">Generator the file box-shadows.min.css</a>
 * <a href="#box-shadow-css-generator">Box-shadow CSS Generator</a>
 * <a href="#usage">Usage</a>
 * <a href="#license">License</a>
@@ -26,27 +26,30 @@ A cross-browser collection of CSS box-shadow. Try, experiment or use whatever yo
 ### 1. Include the stylesheet
 1a. Include the stylesheet on your document's <code>&lt;head&gt;</code>
 
->
-	<head>
-	  <link rel="stylesheet" href="https://madeas.github.io/box-shadows.css">
-	</head>
+```html
+<head>
+  <link rel="stylesheet" href="https://madeas.github.io/box-shadows.css">
+</head>
+```
 
 1b. Include the stylesheet minimal css:
 
->
-	<head>
-	  <link rel="stylesheet" href="https://madeas.github.io/box-shadows.min.css">
-	</head>
+```html
+<head>
+  <link rel="stylesheet" href="https://madeas.github.io/box-shadows.min.css">
+</head>
+```
 
 1c. Download
 
 See [box-shadows.css][link1] and [box-shadows.min.css][link2]
 
->
-	<head>
-	  <link rel="stylesheet" href="/box-shadows.min.css">
-	</head>
-	
+```html
+<head>
+  <link rel="stylesheet" href="/box-shadows.min.css">
+</head>
+```
+
 You can use the [generator][link7] to create your own minimal file and reduce the load on the site.
 
 ### 2. Add the class
@@ -54,16 +57,18 @@ Add the class <code>bShadow</code> to the block you want to use.
 
 Full example:
 
->
-	<div class="bShadow"></div>
+```html
+<div class="bShadow"></div>
+```
 
 ### 3. Add the class number
 Finally you need change <code>bShadow</code> or to add one of the classes.
 
 Full example:
 
->
-	<div class="bShadow-1"></div>
+```html
+<div class="bShadow-1"></div>
+```
 
 * Now the collection consists of <b>45 shadows with number</b>, bShadow, bShadow-light and bShadow-inset.
 
@@ -75,8 +80,9 @@ Add the class <code>h</code> to the element <code>bShadow-1</code> to create an 
 
 Full example:
 
->
-	<div class="bShadow-38 bShadow-1h"></div>
+```html
+<div class="bShadow-38 bShadow-1h"></div>
+```
 
 See [example on JSfiddle][link4] block one (.bShadow) / try, experiment, use whatever you want and how you want!
 
@@ -85,13 +91,16 @@ Class <code>bShadow</code> uses a smooth default animation in .2s <code>transiti
 
 Use this to make a beautiful animation of your blocks. For example,
 
->
-	<style>
-	.transform-translateY-5:hover {
-  		-webkit-transform: translateY(-5px) translateZ(0);
-  		transform: translateY(-5px) translateZ(0);
-	</style>
-	<div class="bShadow transform-translateY-5 bShadow-1h">bShadow</div>
+```css
+.transform-translateY-5:hover {
+  -webkit-transform: translateY(-5px) translateZ(0);
+  transform: translateY(-5px) translateZ(0);
+}
+```
+
+```html
+<div class="bShadow transform-translateY-5 bShadow-1h">bShadow</div>
+```
 
 See [example on JSfiddle][link5]
 
@@ -100,11 +109,12 @@ To add a parameter, just insert the script on the html page and specify in it th
 
 Full example for <code>.bShadow-1</code>. A point in front of the class is required!
 
->
-    [].forEach.call(document.querySelectorAll('.bShadow-1'), function(node) {
-	    var bsh = getComputedStyle(node).boxShadow;
-	    node.style.boxShadow = "inset "+bsh;
-    });
+```JavaScript
+[].forEach.call(document.querySelectorAll('.bShadow-1'), function(node) {
+  var bsh = getComputedStyle(node).boxShadow;
+  node.style.boxShadow = "inset " + bsh;
+});
+```
 
  See [example on JSfiddle][link6]
 
@@ -113,6 +123,7 @@ Use the library by including the stylesheet in your <b>function.php</b> your the
 
 >
 	wp_enqueue_style( 'bShadows-style', '//madeas.github.io/box-shadows.min.css', array(), '1.0.2'  );
+
 To update the version, change <code>1.0.2</code> on new.
 
 ## Generator the file box-shadows.min.css
