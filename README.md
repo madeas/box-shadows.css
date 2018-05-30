@@ -32,7 +32,7 @@ A cross-browser collection of CSS box-shadow. Try, experiment or use whatever yo
 </head>
 ```
 
-1b. Include the stylesheet minimal css:
+1b. Include the stylesheet min.css:
 
 ```html
 <head>
@@ -44,6 +44,8 @@ A cross-browser collection of CSS box-shadow. Try, experiment or use whatever yo
 
 See [box-shadows.css][link1] and [box-shadows.min.css][link2]
 
+If you use downloaded files, upload them to the directory of your site and set the stylesheet after the opening <code>&lt;head&gt;</code> tags:
+
 ```html
 <head>
   <link rel="stylesheet" href="/box-shadows.min.css">
@@ -53,41 +55,38 @@ See [box-shadows.css][link1] and [box-shadows.min.css][link2]
 You can use the [generator][link7] to create your own minimal file and reduce the load on the site.
 
 ### 2. Add the class
-Add the class <code>bShadow</code> to the block you want to use.
-
-Full example:
+Add the class <code>.bShadow</code> to the block you want to use:
 
 ```html
 <div class="bShadow"></div>
 ```
 
 ### 3. Add the class number
-Finally you need change <code>bShadow</code> or to add one of the classes.
-
-Full example:
+Finally you need to add an additional class to the existing <code>.bShadow-</code> with the number or use one of the classes separately, without class <code>.bShadow</code>. For example,
 
 ```html
+<div class="bShadow bShadow-1"></div>
+<!-- or -->
 <div class="bShadow-1"></div>
 ```
 
-* Now the collection consists of <b>45 shadows with number</b>, bShadow, bShadow-light and bShadow-inset.
+* Now the collection consists of 53 variants of shadows with the number, as well as three additional classes: <b>.bShadow</b>, <b>.bShadow-light</b> and <b>.bShadow-inset</b>.
 
 See [example][link3]
 
 ## 4. Hover effect
 
-Add the class <code>h</code> to the element <code>bShadow-1</code> to create an hover effect.
-
-Full example:
+Add the class <code>h</code> to the element <code>.bShadow-1</code> to create an hover effect.
+For example,
 
 ```html
 <div class="bShadow-38 bShadow-1h"></div>
 ```
 
-See [example on JSfiddle][link4] block one (.bShadow) / try, experiment, use whatever you want and how you want!
+See [example][link4] block one (.bShadow) / try, experiment, use whatever you want and how you want!
 
 ## 5. Animation on CSS Transform
-Class <code>bShadow</code> uses a smooth default animation in .2s <code>transition: transform 0.2s ease-in-out</code>, and also includes a property that warns the browser about the upcoming shadow transformation and position <code>will-change: transform, box-shadow;</code>.
+Class <code>.bShadow</code> uses a smooth default animation in .2s <code>transition: transform 0.2s ease-in-out</code>, and also includes a property that warns the browser about the upcoming shadow transformation and position <code>will-change: transform, box-shadow;</code>.
 
 Use this to make a beautiful animation of your blocks. For example,
 
@@ -97,12 +96,11 @@ Use this to make a beautiful animation of your blocks. For example,
   transform: translateY(-5px) translateZ(0);
 }
 ```
-
 ```html
 <div class="bShadow transform-translateY-5 bShadow-1h">bShadow</div>
 ```
 
-See [example on JSfiddle][link5]
+See [example][link5]
 
 ## 6. Adding the <code>inset</code> parameter
 To add a parameter, just insert the script on the html page and specify in it the classes for which you want to apply it.
@@ -116,7 +114,7 @@ Full example for <code>.bShadow-1</code>. A point in front of the class is requi
 });
 ```
 
- See [example on JSfiddle][link6]
+ See [example][link6]
 
 ## WordPress Function.php  
 Use the library by including the stylesheet in your <b>function.php</b> your theme in <b>WordPress</b>.
@@ -137,7 +135,7 @@ It great!
 Use the [generator css box-shadow][link9] and complete the collection with your own styles. By clicking the "save and add the next" button, you can create several more classes. Then, copy the received styles and paste into your or created min.css file.
 
 ## Usage
-To use box-shadows.css in your website, simply add the stylesheet into your document's <code>&lt;head&gt;</code>. Add the class <code>bShadow</code> to an element, along with any of the <code>bShadow with number</code> or singly, add<code>hover</code> effect and javascript for create property <code>inset</code>. Optional. Download the entire library or create your own smaller one, using the css file generator. If you do not have enough classes, you can create them yourself in the generator and add it to the downloaded file.That's all! You've got a CSS block with shadow.
+To use box-shadows.css in your website, simply add the stylesheet into your document's <code>&lt;head&gt;</code>. Add the class <code>.bShadow</code> to an element, along with any of the <code>.bShadow- with number</code> or singly, add<code>hover</code> effect and javascript for create property <code>inset</code>. Optional. Download the entire library or create your own smaller one, using the css file generator. If you do not have enough classes, you can create them yourself in the generator and add it to the downloaded file.That's all! You've got a CSS block with shadow.
 
 ## License
 Box-shadows.css.css is licensed under the MIT license. (http://opensource.org/licenses/MIT)
