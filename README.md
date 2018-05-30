@@ -15,9 +15,9 @@ A cross-browser collection of CSS box-shadow. Try, experiment or use whatever yo
 	- <a href="#5-animation-on-css-transform">Animation on CSS Transform</a>
 	- <a href="#6-adding-the-inset-parameter">Adding the inset parameter	</a>
 * <a href="#wordpress-functionphp">WordPress Function.php</a>
-* <a href="#usage">Usage</a>
 * <a href="#box-shadow-css-generator">Generator the file box-shadows.min.css</a>
 * <a href="#box-shadow-css-generator">Box-shadow CSS Generator</a>
+* <a href="#usage">Usage</a>
 * <a href="#license">License</a>
 * <a href="#contributing">Contributing</a>
 
@@ -115,9 +115,6 @@ Use the library by including the stylesheet in your <b>function.php</b> your the
 	wp_enqueue_style( 'bShadows-style', '//madeas.github.io/box-shadows.min.css', array(), '1.0.2'  );
 To update the version, change <code>1.0.2</code> on new.
 
-## Usage
-To use box-shadows.css in your website, simply drop the stylesheet into your document's <code>&lt;head&gt;</code>, and add the class <code>bShadow</code> to an element, along with any of the <code>bShadow-number</code> or singly + <code>hover</code> effect and js <code>inset</code>. Optional. That's all! You've got a CSS block with shadow.
-
 ## Generator the file box-shadows.min.css
 If you do not want to connect the entire library to your site, you can <b>generate</b> your own file <b>min.css</b> from the selected classes.
 1. [go to the site][link10]
@@ -127,6 +124,9 @@ It great!
 
 ## Box-shadow CSS Generator
 Use the [generator css box-shadow][link9] and complete the collection with your own styles. By clicking the "save and add the next" button, you can create several more classes. Then, copy the received styles and paste into your or created min.css file.
+
+## Usage
+To use box-shadows.css in your website, simply add the stylesheet into your document's <code>&lt;head&gt;</code>. Add the class <code>bShadow</code> to an element, along with any of the <code>bShadow with number</code> or singly, add<code>hover</code> effect and javascript for create property <code>inset</code>. Optional. Download the entire library or create your own smaller one, using the css file generator. If you do not have enough classes, you can create them yourself in the generator and add it to the downloaded file.That's all! You've got a CSS block with shadow.
 
 ## License
 Box-shadows.css.css is licensed under the MIT license. (http://opensource.org/licenses/MIT)
