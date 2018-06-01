@@ -28,7 +28,7 @@ A cross-browser collection of CSS box-shadow
 ## Basic Usage
 
 ### 1. Include the stylesheet
-1a. Include the stylesheet on your document's <code>&lt;head&gt;</code>
+Include the stylesheet on your document's <code>&lt;head&gt;</code>
 
 ```html
 <head>
