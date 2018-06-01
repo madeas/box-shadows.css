@@ -1,15 +1,16 @@
 {
-  "name": "box-shadows.css",
+  "name": "box-shadows-css",
   "version": "1.0.2",
-  "description": "a cross-browser collection of CSS box-shadow",
+  "description": "a cross-browser collection of css box-shadow",
   "main": "box-shadows.css",
   "dependencies": {
+    "css-box-shadow": "^1.0.0-3",
     "node-static": "^0.7.10",
     "package.json": "^2.0.1"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "stylelint box-shadows.css"
+    "test": "test box-shadows.css"
   },
   "repository": {
     "type": "git",
@@ -18,15 +19,13 @@
   "keywords": [
     "cross-browser",
     "css",
-    "box-shadows",
+    "box-shadow",
     "collection",
     "inset",
-    "stylesheets",
     "box-shadows-css",
-    "generator",
-    "css",
-    "box-shadow",
-    "library"
+    "library",
+    "stylesheets",
+    "generator"
   ],
   "author": "Andrej Sharapov",
   "license": "MIT",
