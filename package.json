@@ -1,33 +1,37 @@
 {
   "name": "box-shadows.css",
   "version": "1.0.2",
-  "description": "A cross-browser collection of CSS box-shadow",
+  "description": "a cross-browser collection of CSS box-shadow",
+  "main": "box-shadows.css",
+  "dependencies": {
+    "node-static": "^0.7.10",
+    "package.json": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "stylelint box-shadows.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madeas/box-shadows.css.git"
+  },
   "keywords": [
     "cross-browser",
     "css",
-    "box-shadow",
+    "box-shadows",
     "collection",
-    "stylesheets",
     "inset",
+    "stylesheets",
     "box-shadows-css",
-    "generator css box-shadow",
+    "generator",
+    "css",
+    "box-shadow",
     "library"
   ],
-  "homepage": "https://madeas.github.io/box-shadows",
-  "main": "box-shadows.min.css",
-  "format": "global",
-  "repository": {
-  "type": "git",
-  "url": "https://github.com/madeas/box-shadows.css.git"
+  "author": "Andrej Sharapov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madeas/box-shadows.css/issues"
   },
-  "author": {
-    "name": "Andrej Sharapov"
-  },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/madeas/box-shadows.css/blob/master/LICENSE"
-    }
-  ],
-  "dependencies": {}
+  "homepage": "https://github.com/madeas/box-shadows.css#readme"
 }
