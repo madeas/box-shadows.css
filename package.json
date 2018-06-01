@@ -29,9 +29,5 @@
       "url": "https://github.com/madeas/box-shadows.css/blob/master/LICENSE"
     }
   ],
-  "dependencies": {
-    "express": "madeas/box-shadows.css",
-    "mocha": "box-shadows.css/box-shadows.min.css#v1.0.2",
-    "module": "madeas/box-shadows.css#box-shadows.min.css\/1.0.2"
-  }
+  "dependencies": {}
 }
