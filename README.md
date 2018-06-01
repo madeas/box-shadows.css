@@ -32,23 +32,15 @@ A cross-browser collection of CSS box-shadow
 
 ```html
 <head>
-  <link rel="stylesheet" href="https://madeas.github.io/box-shadows.css">
+  <link rel="stylesheet" href="/box-shadows.css">
   <!-- or -->
-  <link rel="stylesheet" href="https://madeas.github.io/box-shadows.min.css">
-</head>
-```
-
-1b. Download
-
-See [box-shadows.css][link1] and [box-shadows.min.css][link2]
-
-If you use downloaded files, upload them to the directory of your site and set the stylesheet after the opening <code>&lt;head&gt;</code> tags:
-
-```html
-<head>
   <link rel="stylesheet" href="/box-shadows.min.css">
 </head>
 ```
+
+#### Download
+
+See [box-shadows.css][link1] and [box-shadows.min.css][link2]
 
 You can use the [generator][link7] to create your own minimal file and reduce the load on the site.
 
