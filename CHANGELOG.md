@@ -1,5 +1,9 @@
 # Changes to box-shadows.css
 
+### 1.0.3 (June 02, 2018)
+
+* Minor changes to the repository
+
 ### 1.0.2 (May 28, 2018)
 
 * added blurred shadows (сollection increased to 53 blocks)
