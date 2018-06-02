@@ -1,4 +1,4 @@
-# Box-shadows.css <a href="https://github.com/madeas/box-shadows.css/releases"><img src="http://madeas.ru/img/git/release02.svg" alt="releases"></a> <a href="/CHANGELOG.md"><img src="http://madeas.ru/img/git/changelog.svg" alt="changelog"></a> <a href="#"><img src="http://madeas.ru/img/git/cdn01.svg" alt="cdn"></a> <a href="https://gitter.im/andrejsharapov/box-shadows.css"><img src="http://madeas.ru/img/git/gitter.svg" alt="chat gitter"></a> <a href="/LICENSE"><img src="http://madeas.ru/img/git/license.svg" alt="license"></a>
+# Box-shadows.css <a href="https://github.com/madeas/box-shadows.css/releases"><img src="http://madeas.ru/img/git/release03.svg" alt="releases"></a> <a href="/CHANGELOG.md"><img src="http://madeas.ru/img/git/changelog.svg" alt="changelog"></a> <a href="#"><img src="http://madeas.ru/img/git/cdn-none.svg" alt="cdn"></a> <a href="https://gitter.im/andrejsharapov/box-shadows.css"><img src="http://madeas.ru/img/git/gitter.svg" alt="chat gitter"></a> <a href="/LICENSE"><img src="http://madeas.ru/img/git/license.svg" alt="license"></a>
 
 <p><a href="https://github.com/madeas/box-shadows.css"><img src="https://github.com/madeas/box-shadows.css/blob/master/logotype.png?raw=true" alt="Logo" width="74" height="74" align="right" data-canonical-src="https://necolas.github.io/normalize.css/logo.svg" style="max-width:100%;"></a></p>
 
@@ -110,9 +110,9 @@ Full example for <code>.bShadow-1</code>. A point in front of the class is requi
 Use the library by including the stylesheet in your <b>function.php</b> your theme in <b>WordPress</b>.
 
 >
-	wp_enqueue_style( 'bShadows-style', '//madeas.github.io/box-shadows.min.css', array(), '1.0.2'  );
+	wp_enqueue_style( 'bShadows-style', '//madeas.github.io/box-shadows.min.css', array(), '1.0.3'  );
 
-To update the version, change <code>1.0.2</code> on new.
+To update the version, change <code>1.0.3</code> on new.
 
 ## Generator the file box-shadows.min.css
 If you do not want to connect the entire library to your site, you can <b>generate</b> your own file <b>min.css</b> from the selected classes.
