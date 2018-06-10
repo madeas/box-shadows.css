@@ -1,16 +1,18 @@
 {
   "name": "box-shadows-css",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a cross-browser collection of css box-shadow",
-  "main": "box-shadows.css",
+  "main": "index.js",
   "dependencies": {
-    "css-box-shadow": "^1.0.0-3",
     "node-static": "^0.7.10",
     "package.json": "^2.0.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  },
   "scripts": {
-    "test": "test box-shadows.css"
+    "test": "test box-shadows-css"
   },
   "repository": {
     "type": "git",
