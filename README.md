@@ -1,6 +1,6 @@
 # Box-shadows.css [![releases](http://madeas.ru/img/git/release03.svg)](https://github.com/madeas/box-shadows.css/releases) [![changelog](http://madeas.ru/img/git/changelog.svg)](/CHANGELOG.md) [![npm](http://madeas.ru/img/git/npm-n.svg)](https://www.npmjs.com/package/box-shadows-css) [![cdn](http://madeas.ru/img/git/cdn-none.svg)](#) [![chat gitter](http://madeas.ru/img/git/gitter_im.svg)](https://gitter.im/andrejsharapov/box-shadows.css) [![license](http://madeas.ru/img/git/license.svg)](/LICENSE)
 
-<p><a href="https://github.com/madeas/box-shadows.css"><img src="https://github.com/madeas/box-shadows.css/blob/master/logotype.png?raw=true" alt="Logo" width="74" height="74" align="right" data-canonical-src="https://necolas.github.io/normalize.css/logo.svg" style="max-width:100%;"></a></p>
+<p><a href="https://github.com/madeas/box-shadows.css"><img src="https://github.com/madeas/box-shadows.css/blob/master/logotype.png?raw=true" alt="Logo" width="74" height="74" align="right" data-canonical-src="https://github.com/madeas/box-shadows.css/blob/master/logotype.png" style="max-width:100%;"></a></p>
 
 A cross-browser collection of CSS box-shadow  
 	+ Generator the file box-shadows.min.css  
@@ -92,7 +92,7 @@ Use this to make a beautiful animation of your blocks. For example,
 
 See [example][link5]
 
-## 6. Adding the `inset` parameter
+## 6. Adding the *inset* parameter
 To add a parameter, just insert the script on the html page and specify in it the classes for which you want to apply it.
 
 Full example for `.bShadow-1`. A point in front of the class is required!
