@@ -115,10 +115,12 @@ Use the library by including the stylesheet in your **function.php** your theme 
 To update the version, change `1.0.3` on new.
 
 ## Generator the file box-shadows.min.css
-If you do not want to connect the entire library to your site, you can <b>generate</b> your own file **min.css** from the selected classes.
-1. [go to the site][link10]
-2. сlick the button "show in blocks" and follow the instruction
-3. finally click the "download" button and connect the downloaded file to your site
+If you do not want to connect the entire library to your site, you can **generate** your own file **min.css** from the selected classes.
+
+  1. [go to the site][link10]
+  2. сlick the button "show in blocks" and follow the instruction
+  3. finally click the "download" button and connect the downloaded file to your site
+	
 It great!
 
 ## Box-shadow CSS Generator
