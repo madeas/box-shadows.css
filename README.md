@@ -8,7 +8,7 @@ A cross-browser collection of CSS box-shadow
 
 <p align="center">Try, experiment, use whatever you want and how you want!</p>
 
-`box-shadows.css` a collection of simple and pleasant shadows for you to use in your projects. Great for tables, homepages content, containers, navigation and other blocks your website.
+`box-shadows.css` is a collection of simple and pleasant shadows for you to use in your projects. Great for tables, homepages content, containers, navigation and other blocks your website.
 
 ## Content
 * [Basic Usage](#basic-usage)
