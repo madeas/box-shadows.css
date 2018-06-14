@@ -115,7 +115,7 @@ Use the library by including the stylesheet in your **function.php** your theme 
 To update the version, change `1.0.3` on new.
 
 ## Generator the file box-shadows.min.css
-If you do not want to connect the entire library to your site, you can **generate** your own file **min.css** from the selected classes.
+The site also has a [box-shadows.min.css][link10] file **generator** with an instruction that allows the user to create her/his own file consisting only of the selected classes. This will help reduce the load on the site if your project uses less than two or three shadows.
 
   1. [go to the site][link10]
   2. сlick the button "show in blocks" and follow the instruction
@@ -124,7 +124,7 @@ If you do not want to connect the entire library to your site, you can **generat
 It great!
 
 ## Box-shadow CSS Generator
-Use the [generator css box-shadow][link9] and complete the collection with your own styles. By clicking the "save and add the next" button, you can create several more classes. Then, copy the received styles and paste into your or created min.css file.
+You can use the classic [css box-shadow generator][link9] to supplement the collection with your own styles. By clicking the “Save and add next” button, you can create an infinite number of classes. The first generated and subsequent classes are assigned a sequence number that is not in the collection. You can copy the received styles and paste into the root css or the box-shadows.min.css file created on the site.
 
 ## Usage
 To use box-shadows.css in your website, simply add the stylesheet into your document's `<head>`. Add the class `.bShadow` to an element, along with any of the `.bShadow- with number` or singly, add `hover` effect and javascript for create property `inset`. Optional. Download the entire library or create your own smaller one, using the css file generator. If you do not have enough classes, you can create them yourself in the generator and add it to the downloaded file.That's all! You've got a CSS block with shadow.
@@ -146,4 +146,4 @@ If you have any suggestions, or you find an error, tell me in [twitter][link8] @
 [link7]: #generator-the-file-box-shadowsmincss "generator min.css"
 [link8]: https://twitter.com/andrejsharapov "twitter"
 [link9]: https://madeas.github.io/box-shadows#gen "Box-shadow CSS Generator"
-[link10]: https://madeas.github.io/box-shadows#gen_css "Generator the file min.CSS"
+[link10]: https://madeas.github.io/box-shadows#css_gen "Generator the file min.CSS"
