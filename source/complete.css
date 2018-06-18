@@ -1,0 +1,83 @@
+.bShadow-1,
+.bShadow-1h:hover {
+  -webkit-box-shadow: rgba(150, 150, 150, 0.1) 0px 0px 20px 0px;
+  -moz-box-shadow: rgba(150, 150, 150, 0.1) 0px 0px 20px 0px;
+  box-shadow: rgba(150, 150, 150, 0.1) 0px 0px 20px 0px;
+}
+
+.bShadow-2,
+.bShadow-2h:hover {
+  -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 60px -10px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 60px -10px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 60px -10px;
+}
+
+.bShadow-3,
+.bShadow-3h:hover {
+  -webkit-box-shadow: rgba(0, 0, 0, 0.09) 0px 6px 9px 0px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.09) 0px 6px 9px 0px;
+  box-shadow: rgba(0, 0, 0, 0.09) 0px 6px 9px 0px;
+}
+
+.bShadow-4,
+.bShadow-4h:hover {
+  -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 20px 0px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 20px 0px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 20px 0px;
+}
+
+.bShadow-5,
+.bShadow-5h:hover {
+  -webkit-box-shadow: rgba(0, 0, 0, 0.12) 0px 3px 13px 1px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.12) 0px 3px 13px 1px;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 3px 13px 1px;
+}
+
+.bShadow-6,
+.bShadow-6h:hover {
+  -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 15px 35px 0px, rgba(0, 0, 0, 0.07) 0px 3px 10px 0px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 15px 35px 0px, rgba(0, 0, 0, 0.07) 0px 3px 10px 0px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 15px 35px 0px, rgba(0, 0, 0, 0.07) 0px 3px 10px 0px;
+}
+
+.bShadow-7,
+.bShadow-7h:hover {
+  -webkit-box-shadow: rgba(57, 70, 78, 0.15) 0px 0px 1px 0px, rgba(57, 70, 78, 0.25) 0px 20px 55px -8px;
+  -moz-box-shadow: rgba(57, 70, 78, 0.15) 0px 0px 1px 0px, rgba(57, 70, 78, 0.25) 0px 20px 55px -8px;
+  box-shadow: rgba(57, 70, 78, 0.15) 0px 0px 1px 0px, rgba(57, 70, 78, 0.25) 0px 20px 55px -8px;
+}
+
+.bShadow-8,
+.bShadow-8h:hover {
+  -webkit-box-shadow: rgba(0, 0, 0, 0.25) 0px 15px 45px -9px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.25) 0px 15px 45px -9px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 15px 45px -9px;
+}
+
+.bShadow-9,
+.bShadow-9h:hover {
+  -webkit-box-shadow: rgba(0, 0, 0, 0.06) 0px 1px 1px 1px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.06) 0px 1px 1px 1px;
+  box-shadow: rgba(0, 0, 0, 0.06) 0px 1px 1px 1px;
+}
+
+.bShadow-10,
+.bShadow-10h:hover {
+  -webkit-box-shadow: rgba(16, 36, 94, 0.4) 0px 2px 6px 0px;
+  -moz-box-shadow: rgba(16, 36, 94, 0.4) 0px 2px 6px 0px;
+  box-shadow: rgba(16, 36, 94, 0.4) 0px 2px 6px 0px;
+}
+
+.bShadow-11,
+.bShadow-11h:hover {
+  -webkit-box-shadow: rgba(62, 57, 107, 0.3) 0px 6px 16px 0px;
+  -moz-box-shadow: rgba(62, 57, 107, 0.3) 0px 6px 16px 0px;
+  box-shadow: rgba(62, 57, 107, 0.3) 0px 6px 16px 0px;
+}
+
+.bShadow-12,
+.bShadow-12h:hover {
+  -webkit-box-shadow: rgba(62, 57, 107, 0.36) 0px 16px 38px -12px, rgba(62, 57, 107, 0.12) 0px 4px 25px 0px, rgba(62, 57, 107, 0.2) 0px 8px 10px -5px;
+  -moz-box-shadow: rgba(62, 57, 107, 0.36) 0px 16px 38px -12px, rgba(62, 57, 107, 0.12) 0px 4px 25px 0px, rgba(62, 57, 107, 0.2) 0px 8px 10px -5px;
+  box-shadow: rgba(62, 57, 107, 0.36) 0px 16px 38px -12px, rgba(62, 57, 107, 0.12) 0px 4px 25px 0px, rgba(62, 57, 107, 0.2) 0px 8px 10px -5px;
+}

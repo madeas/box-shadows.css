@@ -1,0 +1,55 @@
+.bShadow-50,
+.bShadow-50h:hover {
+  -webkit-box-shadow: 0px 0px 70px 6px rgba(0, 0, 0, 0.12);
+  -moz-box-shadow: 0px 0px 70px 6px rgba(0, 0, 0, 0.12);
+  box-shadow: 0px 0px 70px 6px rgba(0, 0, 0, 0.12);
+}
+
+.bShadow-51,
+.bShadow-51h:hover {
+  -webkit-box-shadow: 5px 31px 85px 23px rgba(0, 0, 0, 0.07);
+  -moz-box-shadow: 5px 31px 85px 23px rgba(0, 0, 0, 0.07);
+  box-shadow: 5px 31px 85px 23px rgba(0, 0, 0, 0.07);
+}
+
+.bShadow-52,
+.bShadow-52h:hover {
+  -webkit-box-shadow: 30px 70px 70px 40px rgba(0, 0, 0, 0.05);
+  -moz-box-shadow: 30px 70px 70px 40px rgba(0, 0, 0, 0.05);
+  box-shadow: 30px 70px 70px 40px rgba(0, 0, 0, 0.05);
+}
+
+.bShadow-53,
+.bShadow-53h:hover {
+  -webkit-box-shadow: 0 30px 48px 22px rgba(0, 0, 0, 0.07);
+  -moz-box-shadow: 0 30px 48px 22px rgba(0, 0, 0, 0.07);
+  box-shadow: 0 30px 48px 22px rgba(0, 0, 0, 0.07);
+}
+
+.bShadow-54,
+.bShadow-54h:hover {
+  -webkit-box-shadow: -41px 51px 68px 5px rgba(0, 0, 0, 0.06);
+  -moz-box-shadow: -41px 51px 68px 5px rgba(0, 0, 0, 0.06);
+  box-shadow: -41px 51px 68px 5px rgba(0, 0, 0, 0.06);
+}
+
+.bShadow-55,
+.bShadow-55h:hover {
+  -webkit-box-shadow: 41px 51px 68px 5px rgba(0, 0, 0, 0.06);
+  -moz-box-shadow: 41px 51px 68px 5px rgba(0, 0, 0, 0.06);
+  box-shadow: 41px 51px 68px 5px rgba(0, 0, 0, 0.06);
+}
+
+.bShadow-56,
+.bShadow-56h:hover {
+  -webkit-box-shadow: -100px 100px 85px 23px rgba(0, 0, 0, 0.07);
+  -moz-box-shadow: -100px 100px 85px 23px rgba(0, 0, 0, 0.07);
+  box-shadow: -100px 100px 85px 23px rgba(0, 0, 0, 0.07);
+}
+
+.bShadow-57,
+.bShadow-57h:hover {
+  -webkit-box-shadow: 100px 100px 85px 23px rgba(0, 0, 0, 0.07);
+  -moz-box-shadow: 100px 100px 85px 23px rgba(0, 0, 0, 0.07);
+  box-shadow: 100px 100px 85px 23px rgba(0, 0, 0, 0.07);
+}
