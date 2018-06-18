@@ -110,9 +110,9 @@ Full example for `.bShadow-1`. A point in front of the class is required!
 Use the library by including the stylesheet in your **function.php** your theme in **WordPress**.
 
 >
-	wp_enqueue_style( 'bShadows-style', '//madeas.github.io/box-shadows.min.css', array(), '1.0.3'  );
+	wp_enqueue_style( 'bShadows-style', '//madeas.github.io/box-shadows.min.css', array(), '1.0.4'  );
 
-To update the version, change `1.0.3` on new.
+To update the version, change `1.0.4` on new.
 
 ## Generator the file box-shadows.min.css
 The site also has a [box-shadows.min.css][link10] file **generator** with an instruction that allows the user to create her/his own file consisting only of the selected classes. This will help reduce the load on the site if your project uses less than two or three shadows.
