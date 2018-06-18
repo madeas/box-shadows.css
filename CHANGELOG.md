@@ -1,5 +1,10 @@
 # Changes to box-shadows.css
 
+### 1.0.4 (June 18, 2018)
+
+* The number of blocks is increased.
+* Сhanged the order of blocks.
+
 ### 1.0.3 (June 02, 2018)
 
 * Minor changes to the repository
