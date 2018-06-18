@@ -60,7 +60,7 @@ Finally you need to add an additional class to the existing `.bShadow-` with the
 <div class="bShadow-1"></div>
 ```
 
-* Now the collection consists of 53 variants of shadows with the number, as well as three independent classes: **.bShadow**, **.bShadow-light** and **.bShadow-inset**.
+* Now the collection consists of 53 variants of shadows with the number, as well as three independent classes: **.bShadow**, **.bShadow-light**, **.bShadow-inset** and **.bSnone**.
 
 See [example][link3]
 
@@ -74,6 +74,8 @@ For example,
 ```
 
 See [example][link4] block one (.bShadow) / try, experiment, use whatever you want and how you want!
+
+If you want the shadow not to appear when hovering or clicking, use the class **.bSnone**
 
 ## 5. Animation on CSS Transform
 Class `.bShadow` uses a smooth default animation in .2s `transition: transform 0.2s ease-in-out`, and also includes a property that warns the browser about the upcoming shadow transformation and position `will-change: transform, box-shadow;`.
