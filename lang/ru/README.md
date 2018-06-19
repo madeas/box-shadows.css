@@ -6,8 +6,8 @@
 <p><a href="https://github.com/madeas/box-shadows.css"><img src="https://github.com/madeas/box-shadows.css/blob/master/logotype.png?raw=true" alt="Logo" width="74" height="74" align="right" data-canonical-src="https://github.com/madeas/box-shadows.css/blob/master/logotype.png" style="max-width:100%;"></a></p>
 
 Кроссбраузерная коллекция css теней  
-	- Геренатор css файлов box-shadows.min.css  
-	- Генератор css теней (box-shadow)
+	+ Геренатор css файлов box-shadows.min.css  
+	+ Генератор css теней (box-shadow)
 
 <p align="center">Пробуйте, экспериментируйте, используйте все как хотите и где хотите!</p>
 
