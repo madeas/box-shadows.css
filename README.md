@@ -60,7 +60,7 @@ Finally you need to add an additional class to the existing `.bShadow-` with the
 <div class="bShadow-1"></div>
 ```
 
-* Now the collection consists of 53 variants of shadows with the number, as well as three independent classes: **.bShadow**, **.bShadow-light**, **.bShadow-inset** and **.bSnone**.
+* Now the collection consists of 53 variants of shadows with the number, as well as four independent classes: **.bShadow**, **.bShadow-light**, **.bShadow-inset** and **.bSnone**.
 
 See [example][link3]
 
