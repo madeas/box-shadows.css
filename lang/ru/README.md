@@ -1,4 +1,5 @@
-![#](https://icon-icons.com/icons2/97/PNG/32/russia_flags_flag_17058.png) ![link11](https://icon-icons.com/icons2/97/PNG/32/united_states_flags_flag_17080.png)
+[![flagru][flagru]][readmeru] [![flagen][flagen]][readmeen]
+
 
 # Box-shadows.css [![releases](http://madeas.ru/img/git/release03.svg)](https://github.com/madeas/box-shadows.css/releases) [![changelog](http://madeas.ru/img/git/changelog.svg)](/CHANGELOG.md) [![npm](http://madeas.ru/img/git/npm-n.svg)](https://www.npmjs.com/package/box-shadows-css) [![cdn](http://madeas.ru/img/git/cdn-none.svg)](#) [![chat gitter](http://madeas.ru/img/git/gitter_im.svg)](https://gitter.im/andrejsharapov/box-shadows.css) [![license](http://madeas.ru/img/git/license.svg)](/LICENSE)
 
@@ -155,5 +156,8 @@ Box-shadows.css.css предоставляется по лицензии MIT. (h
 [link9]: https://madeas.github.io/box-shadows#gen "Box-shadow CSS Generator"
 [link10]: https://madeas.github.io/box-shadows#css_gen "Generator the file min.CSS"
 
-[link11]: https://github.com/madeas/box-shadows.css/blob/master/lang/ru/README.md "Ru"
-[link12]: https://github.com/madeas/box-shadows.css/blob/master/README.md "En"
+[readmeru]: https://github.com/madeas/box-shadows.css/blob/master/lang/ru/README.md "Ru"
+[flagru]: https://icon-icons.com/icons2/97/PNG/32/russia_flags_flag_17058.png
+
+[readmeen]: https://github.com/madeas/box-shadows.css/blob/master/README.md "En"
+[flagen]: https://icon-icons.com/icons2/97/PNG/32/united_states_flags_flag_17080.png
