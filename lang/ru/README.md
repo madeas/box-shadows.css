@@ -156,7 +156,7 @@ Box-shadows.css.css предоставляется по лицензии MIT. (h
 [link10]: https://madeas.github.io/box-shadows#css_gen "Generator the file min.CSS"
 
 [readmeru]: https://github.com/madeas/box-shadows.css/blob/master/lang/ru/README.md "Ru"
-[flagru]: https://icon-icons.com/icons2/97/PNG/32/russia_flags_flag_17058.png
+[flagru]: https://madeas.github.io/img/ru.png
 
 [readmeen]: https://github.com/madeas/box-shadows.css/blob/master/README.md "En"
-[flagen]: https://icon-icons.com/icons2/97/PNG/32/united_states_flags_flag_17080.png
+[flagen]: https://madeas.github.io/img/en.png
