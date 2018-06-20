@@ -55,7 +55,6 @@
 ```
 
 ### 3. Добавление класса с номером
-Finally you need to add an additional class to the existing `.bShadow-` with the number or use one of the classes separately, without class `.bShadow`. For example,
 Примените класс `.bShadow-` с номером к уже существующему `.bShadow` или используйте его отдельно, без основного. Например,
 
 ```html
