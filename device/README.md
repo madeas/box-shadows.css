@@ -33,3 +33,12 @@ You can add a shadow to your device. Now there are 5 types available:
 *In the near future, you can create a shadow yourself*
 
 ## Display
+You can turn the display on and off by pressing the button.
+
+## Get code
+When your work on creating the device is completed, click `Get code`. In the window that appears, you will see the code of your device. Copy the code by pressing the `Copy code` button and set to the desired place in your project.
+You can easily add and change the styles of your device.
+
+## Buttons
+When creating a device, you can add and remove interface buttons. Click the buttons one by one or turn them off or click all to create a suitable interface.
+*At the moment they are not displayed in the code, but we will try to fix this in the near future.*
