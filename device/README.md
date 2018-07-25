@@ -20,7 +20,7 @@ You have the opportunity to create your own background! To do this,
 * create your own color or enter the color code in the appeared window
 * click to `Enter`
 
-If you need a hexadecimal representation, for you next to the circle will appear your code in HEX format. Click on it and copy.
+You can set the color values yourself. When the code is received, the values are reflected in the RGB format. If you need a hexadecimal representation, your HEX code will appear next to you. Click on it and copy. If you do not see the color code after activating the "Get code" button, try changing it again.
 
 ## Box-shadow
 You can add a shadow to your device. Now there are 5 types available:
@@ -29,8 +29,6 @@ You can add a shadow to your device. Now there are 5 types available:
 * bSd_big
 * bSd_classic
 * bSd_none
-
-*In the near future, you can create a shadow yourself*
 
 ## Display
 You can turn the display on and off by pressing the button.
@@ -42,3 +40,11 @@ You can easily add and change the styles of your device.
 ## Buttons
 When creating a device, you can add and remove interface buttons. Click the buttons one by one or turn them off or click all to create a suitable interface.
 *At the moment they are not displayed in the code, but we will try to fix this in the near future.*
+
+## Position
+You can set the relative or absolute position
+
+## Create your own style
+You can enter any attribute and its contents. To save multiple attributes, separate them with a semicolon. 
+**Warning!** Editing this field will reset all your previously created settings!
+
