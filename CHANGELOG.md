@@ -1,5 +1,11 @@
 # Changes to box-shadows.css
 
+### 1.0.5 (September 24, 2018)
+
+* Removed prefixes: -webkit-, -moz-, -ms-
+* Added file box-shadows.scss
+* Added file box-shadows.css.map
+
 ### 1.0.4 (June 18, 2018)
 
 * The number of blocks is increased.
