@@ -41,7 +41,7 @@
     "url": "https://github.com/madeas/box-shadows.css/issues"
   },
   "license": "MIT",
-  "devDependencies":
+  "devDependencies": {
     "autoprefixer": "^9.1.5",
     "browser-sync": "^2.24.7",
     "gulp": "^3.9.1",
