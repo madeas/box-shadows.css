@@ -1,3 +1,7 @@
+@mixin box-shadow($shadow) {
+    box-shadow: $shadow;
+}
+
 .bSnone,
 .bSnone:hover {
     box-shadow: none !important
