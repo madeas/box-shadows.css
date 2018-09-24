@@ -22,7 +22,7 @@
 	- [Эффекты при наведении](#4-Эффекты-при-наведении)
 	- [Плавная трансформация](#5-Плавная-трансформация-и-анимация)
 	- [Добавление параметра inset](#6-Добавление-параметра-inset)
-* [WordPress Function.php](#wordpress-functionphp)
+* [WordPress Functions.php](#wordpress-functionsphp)
 * [Геренатор css файлов min.css](#Геренатор-css-файлов-box-shadowsmincss)
 * [Генератор css box-shadow](#Генератор-css-box-shadow)
 * [Использование](#Использование)
@@ -114,8 +114,8 @@ See [example][link3]
 
  [Пример][link6]
 
-## WordPress Function.php  
-Используйте библиотеку, включив таблицу стилей в файле **function.php** вашей темы на **WordPress**.
+## WordPress Functions.php  
+Используйте библиотеку, включив таблицу стилей в файле **functions.php** вашей темы на **WordPress**.
 
 >
 	wp_enqueue_style( 'bShadows-style', '//madeas.github.io/box-shadows.min.css', array(), '1.0.4'  );
