@@ -1,9 +1,8 @@
 [![flagru][flagru]][readmeru] [![flagen][flagen]][readmeen]
 
+# Box-shadows.css [![releases](http://madeas.ru/img/git/release05.svg)](https://github.com/madeas/box-shadows.css/releases) [![changelog](http://madeas.ru/img/git/changelog.svg)](/CHANGELOG.md) [![chat gitter](http://madeas.ru/img/git/gitter_im.svg)](https://gitter.im/andrejsharapov/box-shadows.css) [![license](http://madeas.ru/img/git/license.svg)](/LICENSE)
 
-# Box-shadows.css [![releases](http://madeas.ru/img/git/release05.svg)](https://github.com/madeas/box-shadows.css/releases) [![changelog](http://madeas.ru/img/git/changelog.svg)](/CHANGELOG.md) [![npm](http://madeas.ru/img/git/npm-n.svg)](https://www.npmjs.com/package/box-shadows-css) [![cdn](http://madeas.ru/img/git/cdn-none.svg)](#) [![chat gitter](http://madeas.ru/img/git/gitter_im.svg)](https://gitter.im/andrejsharapov/box-shadows.css) [![license](http://madeas.ru/img/git/license.svg)](/LICENSE)
-
-<p><a href="https://github.com/madeas/box-shadows.css"><img src="https://github.com/madeas/box-shadows.css/blob/master/logotype.png?raw=true" alt="Logo" width="74" height="74" align="right" data-canonical-src="https://github.com/madeas/box-shadows.css/blob/master/logotype.png" style="max-width:100%;"></a></p>
+<p><a href="https://github.com/madeas/box-shadows.css"><img src="https://github.com/madeas/box-shadows.css/raw/master/logotype.png?raw=true" alt="logo" width="74" height="74" data-canonical-src="https://github.com/madeas/box-shadows.css/blob/master/bs_logo.svg" align="right"></a></p>
 
 Кроссбраузерная коллекция css теней  
 	+ Геренатор css файлов box-shadows.min.css  
@@ -146,8 +145,8 @@ Box-shadows.css.css предоставляется по лицензии MIT. (h
 
 <p align="right"><a href="#Содержание">↑ наверх</a></p>
 
-[link1]: https://madeas.github.io/box-shadows.css "box-shadows.css"
-[link2]: https://madeas.github.io/box-shadows.min.css "box-shadows.min.css"
+[link1]: https://github.com/madeas/box-shadows.css/blob/master/box-shadows.css?raw=true "box-shadows.css"
+[link2]: https://github.com/madeas/box-shadows.css/blob/master/box-shadows.min.css?raw=true "box-shadows.min.css"
 [link3]: https://madeas.github.io/box-shadows "all blocks with box-shadow"
 [link4]: https://jsfiddle.net/madeas/8at5r1bL/1/ "hover effect"
 [link5]: https://jsfiddle.net/madeas/8at5r1bL/ "animation"
