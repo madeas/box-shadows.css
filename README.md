@@ -1,6 +1,6 @@
 [![flagru][flagru]][readmeru] [![flagen][flagen]][readmeen]
 
-# Box-shadows.css [![releases](http://madeas.ru/img/git/release04.svg)](https://github.com/madeas/box-shadows.css/releases) [![changelog](http://madeas.ru/img/git/changelog.svg)](/CHANGELOG.md) [![npm](http://madeas.ru/img/git/npm-n.svg)](https://www.npmjs.com/package/box-shadows-css) [![cdn](http://madeas.ru/img/git/cdn-none.svg)](#) [![chat gitter](http://madeas.ru/img/git/gitter_im.svg)](https://gitter.im/andrejsharapov/box-shadows.css) [![license](http://madeas.ru/img/git/license.svg)](/LICENSE)
+# Box-shadows.css [![releases](http://madeas.ru/img/git/release05.svg)](https://github.com/madeas/box-shadows.css/releases) [![changelog](http://madeas.ru/img/git/changelog.svg)](/CHANGELOG.md) [![npm](http://madeas.ru/img/git/npm-n.svg)](https://www.npmjs.com/package/box-shadows-css) [![cdn](http://madeas.ru/img/git/cdn-none.svg)](#) [![chat gitter](http://madeas.ru/img/git/gitter_im.svg)](https://gitter.im/andrejsharapov/box-shadows.css) [![license](http://madeas.ru/img/git/license.svg)](/LICENSE)
 
 <p><a href="https://github.com/madeas/box-shadows.css"><img src="https://github.com/madeas/box-shadows.css/blob/master/logotype.png?raw=true" alt="Logo" width="74" height="74" align="right" data-canonical-src="https://github.com/madeas/box-shadows.css/blob/master/logotype.png" style="max-width:100%;"></a></p>
 
@@ -11,6 +11,8 @@ A cross-browser collection of CSS box-shadow
 <p align="center">Try, experiment, use whatever you want and how you want!</p>
 
 `box-shadows.css` is a collection of simple and pleasant shadows for you to use in your projects. Great for tables, homepages content, containers, navigation and other blocks your website.
+
+> Version v1.0.5 became much simpler, since support for the prefix is no longer required. To verify this, check the support of your browser on the site [Can I Use][caniuse]
 
 ## Content
 * [Basic Usage](#basic-usage)
@@ -157,3 +159,4 @@ If you have any suggestions, or you find an error, tell me in [twitter][link8] @
 
 [readmeen]: https://github.com/madeas/box-shadows.css/blob/master/README.md "En"
 [flagen]: https://madeas.github.io/img/en.png
+[caniuse]: https://caniuse.com/#search=box-shadow
