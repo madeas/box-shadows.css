@@ -22,7 +22,7 @@ A cross-browser collection of CSS box-shadow
 	- [Hover effect](#4-hover-effect)
 	- [Animation on CSS Transform](#5-animation-on-css-transform)
 	- [Adding the inset parameter](#6-adding-the-inset-parameter)
-* [WordPress Function.php](#wordpress-functionphp)
+* [WordPress Functions.php](#wordpress-functionsphp)
 * [Generator the file box-shadows.min.css](#generator-the-file-box-shadowsmincss)
 * [Box-shadow CSS Generator](#box-shadow-css-generator)
 * [Usage](#usage)
@@ -112,8 +112,8 @@ Full example for `.bShadow-1`. A point in front of the class is required!
 
  See [example][link6]
 
-## WordPress Function.php  
-Use the library by including the stylesheet in your **function.php** your theme in **WordPress**.
+## WordPress Functions.php  
+Use the library by including the stylesheet in your **functions.php** your theme in **WordPress**.
 
 >
 	wp_enqueue_style( 'bShadows-style', '//madeas.github.io/box-shadows.min.css', array(), '1.0.4'  );
