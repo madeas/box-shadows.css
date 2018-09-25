@@ -23,6 +23,8 @@
     "type": "git",
     "url": "git+https://github.com/madeas/box-shadows.css.git"
   },
+  "sass": "../scss/box-shadows.scss",
+  "main": "gulpfile.js",
   "filename": "box-shadows.min.css",
   "autoupdate": {
     "source": "git",
@@ -35,8 +37,6 @@
       ]
     }]
   },
-  "main": "gulpfile.js",
-  "sass": "../scss/box-shadows.scss",
   "bugs": {
     "url": "https://github.com/madeas/box-shadows.css/issues"
   },
