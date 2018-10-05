@@ -12,10 +12,7 @@
     "web"
   ],
   "homepage": "https://madeas.github.io/box-shadows",
-  "author": {
-    "name": "Andrej Sharapov",
-    "email": "an.sharapov90@gmail.com"
-  },
+  "author": "Andrej Sharapov <an.sharapov90@gmail.com>",
   "scripts": {
     "test": "test-shadows"
   },
