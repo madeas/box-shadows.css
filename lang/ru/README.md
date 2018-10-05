@@ -71,7 +71,7 @@ $ npm install box-shadows-css --save-dev
 
 * Сейчас коллекция состоит более чем из 50 вариантов теней с номером, а также четырех независимых классов: **.bShadow**, **.bShadow-light**, **.bShadow-inset** и **.bSnone**.
 
-See [example][link3]
+Смотрите [пример][link3]
 
 ## 4. Эффекты при наведении
 
