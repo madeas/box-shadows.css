@@ -14,6 +14,7 @@ A cross-browser collection of CSS box-shadow
 
 > Version v1.0.5 became much simpler, since support for the prefix is no longer required. To verify this, check the support of your browser on the site [Can I Use][caniuse].
 
+## NPM
 ```  
 $ npm install box-shadows-css --save-dev
 ```
