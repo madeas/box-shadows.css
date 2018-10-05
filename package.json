@@ -1,5 +1,5 @@
 {
-  "name": "box-shadows.css",
+  "name": "box-shadows-css",
   "description": "A cross-browser collection of CSS box-shadow",
   "version": "1.0.4",
   "keywords": [
@@ -29,22 +29,25 @@
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/madeas/box-shadows.git",
-    "fileMap": [{
-      "basePath": "",
-      "files": [
-        "box-shadows.css",
-        "box-shadows.min.css"
-      ]
-    }]
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "box-shadows.css",
+          "box-shadows.min.css"
+        ]
+      }
+    ]
   },
   "bugs": {
     "url": "https://github.com/madeas/box-shadows.css/issues"
   },
   "license": "MIT",
   "devDependencies": {
-    "autoprefixer": "^9.1.5",
-    "browser-sync": "^2.24.7",
     "gulp": "^3.9.1",
-    "gulp-sass": "^3.1.0"
+    "gulp-csso": "^3.0.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-ruby-sass": "^3.0.0",
+    "gulp-sourcemaps": "^2.6.4"
   }
 }

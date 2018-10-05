@@ -1,3 +1,9 @@
+/*!
+ * box-shadows.css v1.0.5 - https://github.com/madeas/box-shadows.css
+ *
+ * Copyright (c) 2018 Andrej Sharapov
+ * Licensed under MIT (https://github.com/madeas/box-shadows.css/blob/master/LICENSE)
+ */
 @mixin box-shadow($shadow) {
     box-shadow: $shadow;
 }
