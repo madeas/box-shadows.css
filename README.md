@@ -1,6 +1,6 @@
 [![flagru][flagru]][readmeru] [![flagen][flagen]][readmeen]
 
-# Box-shadows.css [![releases](http://madeas.ru/img/git/release05.svg)](https://github.com/madeas/box-shadows.css/releases) [![changelog](http://madeas.ru/img/git/changelog.svg)](/CHANGELOG.md) [![chat gitter](http://madeas.ru/img/git/gitter_im.svg)](https://gitter.im/andrejsharapov/box-shadows.css) [![license](http://madeas.ru/img/git/license.svg)](/LICENSE)
+# Box-shadows.css [![releases](http://madeas.ru/img/git/release05.svg)](https://github.com/madeas/box-shadows.css/releases) [![changelog](http://madeas.ru/img/git/changelog.svg)](/CHANGELOG.md) [![npm](http://madeas.ru/img/git/npm05.svg)](https://www.npmjs.com/package/box-shadows-css) [![chat gitter](http://madeas.ru/img/git/gitter_im.svg)](https://gitter.im/andrejsharapov/box-shadows.css) [![license](http://madeas.ru/img/git/license.svg)](/LICENSE)
 
 <a href="https://github.com/madeas/box-shadows.css"><img src="https://madeas.github.io/bs_logo.svg?raw=true" alt="logo" width="60" height="60" style="border-radius:8px" data-canonical-src="https://madeas.github.io/bs_logo.svg" align="right"></a>
 
