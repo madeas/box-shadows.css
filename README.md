@@ -12,7 +12,11 @@ A cross-browser collection of CSS box-shadow
 
 `box-shadows.css` is a collection of simple and pleasant shadows for you to use in your projects. Great for tables, homepages content, containers, navigation and other blocks your website.
 
-> Version v1.0.5 became much simpler, since support for the prefix is no longer required. To verify this, check the support of your browser on the site [Can I Use][caniuse]
+> Version v1.0.5 became much simpler, since support for the prefix is no longer required. To verify this, check the support of your browser on the site [Can I Use][caniuse].
+
+```  
+$ npm install box-shadows-css --save-dev
+```
 
 ## Content
 * [Basic Usage](#basic-usage)
