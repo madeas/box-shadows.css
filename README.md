@@ -2,7 +2,7 @@
 
 # Box-shadows.css [![releases](http://madeas.ru/img/git/release05.svg)](https://github.com/madeas/box-shadows.css/releases) [![changelog](http://madeas.ru/img/git/changelog.svg)](/CHANGELOG.md) [![chat gitter](http://madeas.ru/img/git/gitter_im.svg)](https://gitter.im/andrejsharapov/box-shadows.css) [![license](http://madeas.ru/img/git/license.svg)](/LICENSE)
 
-<a href="https://github.com/madeas/box-shadows.css"><img src="https://madeas.github.io/bs_logo.svg?raw=true" alt="logo" width="74" height="74" data-canonical-src="https://madeas.github.io/bs_logo.svg" align="right"></a>
+<a href="https://github.com/madeas/box-shadows.css"><img src="https://madeas.github.io/bs_logo.svg?raw=true" alt="logo" width="60" height="60" style="border-radius:8px" data-canonical-src="https://madeas.github.io/bs_logo.svg" align="right"></a>
 
 A cross-browser collection of CSS box-shadow  
 	+ Generator the file box-shadows.min.css  
