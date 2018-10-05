@@ -4,7 +4,6 @@ let gulp        = require('gulp'),
     rename      = require("gulp-rename"),
     csso        = require('gulp-csso');
 
-// sass
 gulp.task('sass', () =>
     sass('scss/box-shadows.scss', {sourcemap: true}).on('error', sass.logError)
     .pipe(sourcemaps.init())
@@ -12,7 +11,6 @@ gulp.task('sass', () =>
     .pipe(gulp.dest('./'))
 );
 
-// csso
 gulp.task('csso', function () {
     return gulp.src('./**/box-shadows.css')
         .pipe(rename('./box-shadows.min.css'))
