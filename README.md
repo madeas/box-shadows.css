@@ -1,12 +1,13 @@
-[![flagru][flagru]][readmeru] [![flagen][flagen]][readmeen]
-
 # Box-shadows.css [![releases](http://madeas.ru/img/git/release05.svg)](https://github.com/madeas/box-shadows.css/releases) [![changelog](http://madeas.ru/img/git/changelog.svg)](/CHANGELOG.md) [![npm](http://madeas.ru/img/git/npm05.svg)](https://www.npmjs.com/package/box-shadows-css) [![chat gitter](http://madeas.ru/img/git/gitter_im.svg)](https://gitter.im/andrejsharapov/box-shadows.css) [![license](http://madeas.ru/img/git/license.svg)](/LICENSE)
+
+[![flagru][flagru]][readmeru] [![flagen][flagen]][readmeen]
 
 <a href="https://github.com/madeas/box-shadows.css"><img src="https://madeas.github.io/bs_logo.svg?raw=true" alt="logo" width="60" height="60" style="border-radius:8px" data-canonical-src="https://madeas.github.io/bs_logo.svg" align="right"></a>
 
-A cross-browser collection of CSS box-shadow  
-	+ Generator the file box-shadows.min.css  
-	+ Box-shadow CSS Generator  
+A cross-browser collection of CSS box-shadow
+
++ Generator the file box-shadows.min.css  
++ Box-shadow CSS Generator  
 
 <p align="center">Try, experiment, use whatever you want and how you want!</p>
 
@@ -15,28 +16,31 @@ A cross-browser collection of CSS box-shadow
 > Version v1.0.5 became much simpler, since support for the prefix is no longer required. To verify this, check the support of your browser on the site [Can I Use][caniuse].
 
 ## NPM
-```  
-$ npm install box-shadows-css --save-dev
+
+```html
+npm install box-shadows-css --save-dev
 ```
 
 ## Content
-* [Basic Usage](#basic-usage)
-	- [Include the stylesheet](#1-include-the-stylesheet)
-	- [Add the class](#2-add-the-class)
-	- [Add the class number](#3-add-the-class-number)
-	- [Hover effect](#4-hover-effect)
-	- [Animation on CSS Transform](#5-animation-on-css-transform)
-	- [Adding the inset parameter](#6-adding-the-inset-parameter)
-* [WordPress Functions.php](#wordpress-functionsphp)
-* [Generator the file box-shadows.min.css](#generator-the-file-box-shadowsmincss)
-* [Box-shadow CSS Generator](#box-shadow-css-generator)
-* [Usage](#usage)
-* [License](#license)
-* [Contributing](#contributing)
+
++ [Basic Usage](#basic-usage)
+  + [Include the stylesheet](#1-include-the-stylesheet)
+  + [Add the class](#2-add-the-class)
+  + [Add the class number](#3-add-the-class-number)
+  + [Hover effect](#4-hover-effect)
+  + [Animation on CSS Transform](#5-animation-on-css-transform)
+  + [Adding the inset parameter](#6-adding-the-inset-parameter)
++ [WordPress Functions.php](#wordpress-functionsphp)
++ [Generator the file box-shadows.min.css](#generator-the-file-box-shadowsmincss)
++ [Box-shadow CSS Generator](#box-shadow-css-generator)
++ [Usage](#usage)
++ [License](#license)
++ [Contributing](#contributing)
 
 ## Basic Usage
 
 ### 1. Include the stylesheet
+
 Include the stylesheet on your document's `<head>`
 
 ```html
@@ -54,6 +58,7 @@ See [box-shadows.css][link1] and [box-shadows.min.css][link2]
 You can use the [generator][link7] to create your own minimal file and reduce the load on the site.
 
 ### 2. Add the class
+
 Add the class `.bShadow` to the block you want to use:
 
 ```html
@@ -61,6 +66,7 @@ Add the class `.bShadow` to the block you want to use:
 ```
 
 ### 3. Add the class number
+
 Finally you need to add an additional class to the existing `.bShadow-` with the number or use one of the classes separately, without class `.bShadow`. For example,
 
 ```html
@@ -69,7 +75,7 @@ Finally you need to add an additional class to the existing `.bShadow-` with the
 <div class="bShadow-1"></div>
 ```
 
-* Now the collection consists of 53 variants of shadows with the number, as well as four independent classes: **.bShadow**, **.bShadow-light**, **.bShadow-inset** and **.bSnone**.
++ Now the collection consists of 53 variants of shadows with the number, as well as four independent classes: **.bShadow**, **.bShadow-light**, **.bShadow-inset** and **.bSnone**.
 
 See [example][link3]
 
@@ -87,6 +93,7 @@ See [example][link4] block one (.bShadow) / try, experiment, use whatever you wa
 If you want the shadow not to appear when hovering or clicking, use the class **.bSnone**
 
 ## 5. Animation on CSS Transform
+
 Class `.bShadow` uses a smooth default animation in .2s `transition: transform 0.2s ease-in-out`, and also includes a property that warns the browser about the upcoming shadow transformation and position `will-change: transform, box-shadow;`.
 
 Use this to make a beautiful animation of your blocks. For example,
@@ -97,6 +104,7 @@ Use this to make a beautiful animation of your blocks. For example,
   transform: translateY(-5px) translateZ(0);
 }
 ```
+
 ```html
 <div class="bShadow transform-translateY-5 bShadow-1h">bShadow</div>
 ```
@@ -104,6 +112,7 @@ Use this to make a beautiful animation of your blocks. For example,
 See [example][link5]
 
 ## 6. Adding the *inset* parameter
+
 To add a parameter, just insert the script on the html page and specify in it the classes for which you want to apply it.
 
 Full example for `.bShadow-1`. A point in front of the class is required!
@@ -117,33 +126,38 @@ Full example for `.bShadow-1`. A point in front of the class is required!
 
  See [example][link6]
 
-## WordPress Functions.php  
+## WordPress Functions.php
+
 Use the library by including the stylesheet in your **functions.php** your theme in **WordPress**.
 
->
-	wp_enqueue_style( 'bShadows-style', '//madeas.github.io/box-shadows.min.css', array(), '1.0.4'  );
+> wp_enqueue_style( 'bshadows-style', '/box-shadows.min.css', array(), '1.0.4'  );
 
 To update the version, change `1.0.4` on new.
 
 ## Generator the file box-shadows.min.css
+
 The site also has a [box-shadows.min.css][link10] file **generator** with an instruction that allows the user to create her/his own file consisting only of the selected classes. This will help reduce the load on the site if your project uses less than two or three shadows.
 
   1. [go to the site][link10]
   2. сlick the button "show in blocks" and follow the instruction
   3. finally click the "download" button and connect the downloaded file to your site
-	
+
 It great!
 
 ## Box-shadow CSS Generator
+
 You can use the classic [css box-shadow generator][link9] to supplement the collection with your own styles. By clicking the “Save and add next” button, you can create an infinite number of classes. The first generated and subsequent classes are assigned a sequence number that is not in the collection. You can copy the received styles and paste into the root css or the box-shadows.min.css file created on the site.
 
 ## Usage
+
 To use box-shadows.css in your website, simply add the stylesheet into your document's `<head>`. Add the class `.bShadow` to an element, along with any of the `.bShadow- with number` or singly, add `hover` effect and javascript for create property `inset`. Optional. Download the entire library or create your own smaller one, using the css file generator. If you do not have enough classes, you can create them yourself in the generator and add them to the downloaded file. That's all! You've got a CSS block with shadow.
 
 ## License
-Box-shadows.css.css is licensed under the MIT license. (http://opensource.org/licenses/MIT)
+
+Box-shadows.css.css is licensed under the [MIT license](http://opensource.org/licenses/MIT)
 
 ## Contributing
+
 If you have any suggestions, or you find an error, tell me in [twitter][link8] @andrejsharapov. I will answer you.
 
 <p align="right"><a href="#content">↑ to top</a></p>
