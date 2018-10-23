@@ -1,4 +1,4 @@
-# Box-shadows.css [![releases](http://madeas.ru/img/git/release05.svg)](https://github.com/madeas/box-shadows.css/releases) [![changelog](http://madeas.ru/img/git/changelog.svg)](/CHANGELOG.md) [![npm](http://madeas.ru/img/git/npm05.svg)](https://www.npmjs.com/package/box-shadows-css) [![chat gitter](http://madeas.ru/img/git/gitter_im.svg)](https://gitter.im/andrejsharapov/box-shadows.css) [![license](http://madeas.ru/img/git/license.svg)](/LICENSE)
+# Box-shadows.css [![releases](https://madeas.ru/img/git/release05.svg)](https://github.com/madeas/box-shadows.css/releases) [![changelog](https://madeas.ru/img/git/changelog.svg)](/CHANGELOG.md) [![npm](https://madeas.ru/img/git/npm051.svg)](https://www.npmjs.com/package/box-shadows-css) [![chat gitter](https://madeas.ru/img/git/gitter_im.svg)](https://gitter.im/andrejsharapov/box-shadows.css) [![license](https://madeas.ru/img/git/license.svg)](/LICENSE)
 
 [![flagru][flagru]][readmeru] [![flagen][flagen]][readmeen]
 
