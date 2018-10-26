@@ -13,7 +13,7 @@ A cross-browser collection of CSS box-shadow
 
 `box-shadows.css` is a collection of simple and pleasant shadows for you to use in your projects. Great for tables, homepages content, containers, navigation and other blocks your website.
 
-> Version v1.0.5 became much simpler, since support for the prefix is no longer required. To verify this, check the support of your browser on the site [Can I Use][caniuse].
+> Version v1.0.5 became much simpler since support for the prefix is no longer required. To verify this, check the support of your browser on the site [Can I Use][caniuse].
 
 ## NPM
 
@@ -55,7 +55,7 @@ Include the stylesheet on your document's `<head>`
 
 See [box-shadows.css][link1] and [box-shadows.min.css][link2]
 
-You can use the [generator][link7] to create your own minimal file and reduce the load on the site.
+You can use the [generator][link7] to create minimal file on your own and reduce the load on the site.
 
 ### 2. Add the class
 
@@ -81,7 +81,7 @@ See [example][link3]
 
 ## 4. Hover effect
 
-Add the class `h` to the element `.bShadow-` to create an hover effect.
+Add the class `h` to the element `.bShadow-` to create a hover effect.
 For example,
 
 ```html
@@ -113,7 +113,7 @@ See [example][link5]
 
 ## 6. Adding the *inset* parameter
 
-To add a parameter, just insert the script on the html page and specify in it the classes for which you want to apply it.
+To add a parameter, just insert the script on the HTML page and specify in it the classes for which you want to apply it.
 
 Full example for `.bShadow-1`. A point in front of the class is required!
 
@@ -142,15 +142,15 @@ The site also has a [box-shadows.min.css][link10] file **generator** with an ins
   2. сlick the button "show in blocks" and follow the instruction
   3. finally click the "download" button and connect the downloaded file to your site
 
-It great!
+It is great!
 
 ## Box-shadow CSS Generator
 
-You can use the classic [css box-shadow generator][link9] to supplement the collection with your own styles. By clicking the “Save and add next” button, you can create an infinite number of classes. The first generated and subsequent classes are assigned a sequence number that is not in the collection. You can copy the received styles and paste into the root css or the box-shadows.min.css file created on the site.
+You can use the classic [css box-shadow generator][link9] to supplement the collection with your own styles. By clicking the “Save and add next” button, you can create an infinite number of classes. The first generated and subsequent classes are assigned a sequence number that is not in the collection. You can copy the received styles and paste into the root CSS or the box-shadows.min.css file created on the site.
 
 ## Usage
 
-To use box-shadows.css in your website, simply add the stylesheet into your document's `<head>`. Add the class `.bShadow` to an element, along with any of the `.bShadow- with number` or singly, add `hover` effect and javascript for create property `inset`. Optional. Download the entire library or create your own smaller one, using the css file generator. If you do not have enough classes, you can create them yourself in the generator and add them to the downloaded file. That's all! You've got a CSS block with shadow.
+To use box-shadows.css in your website, simply add the stylesheet into your document's `<head>`. Add the class `.bShadow` to an element, along with any of the `.bShadow- with number` or singly, add `hover` effect and javascript for creating property `inset`. Optional. Download the entire library or create your own smaller one, using the CSS file generator. If you do not have enough classes, you can create them yourself in the generator and add them to the downloaded file. That's all! You've got a CSS block with shadow.
 
 ## License
 
