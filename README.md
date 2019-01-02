@@ -174,8 +174,8 @@ If you have any suggestions, or you find an error, tell me in [twitter][link8] @
 [link10]: https://madeas.github.io/box-shadows#create-file-min-css "Create the file.min.css"
 
 [readmeru]: https://github.com/madeas/box-shadows.css/blob/master/lang/ru/README.md "Ru"
-[flagru]: https://madeas.github.io/img/ru.png
+[flagru]: https://madeas.github.io/src/ru.png
 
 [readmeen]: https://github.com/madeas/box-shadows.css/blob/master/README.md "En"
-[flagen]: https://madeas.github.io/img/en.png
+[flagen]: https://madeas.github.io/src/en.png
 [caniuse]: https://caniuse.com/#search=box-shadow
