@@ -171,8 +171,8 @@ Box-shadows.css.css предоставляется по лицензии [MIT](h
 [link6]: https://jsfiddle.net/madeas/c9oydmb3/2/show/ "inset javascript"
 [link7]: #Геренатор-css-файлов-box-shadowsmincss "геренатор min.css"
 [link8]: https://twitter.com/andrejsharapov "twitter"
-[link9]: https://madeas.github.io/box-shadows#gen "Box-shadow CSS Generator"
-[link10]: https://madeas.github.io/box-shadows#css_gen "Generator the file min.CSS"
+[link9]: https://madeas.github.io/box-shadows#generator-css-box-shadow "Generator CSS Box-shadow"
+[link10]: https://madeas.github.io/box-shadows#create-file-min-css "Create the file.min.css"
 
 [readmeru]: https://github.com/madeas/box-shadows.css/blob/master/lang/ru/README.md "Ru"
 [flagru]: https://madeas.github.io/img/ru.png
