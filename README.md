@@ -46,8 +46,8 @@ Include the stylesheet on your document's `<head>`
 ```html
 <head>
   <link rel="stylesheet" href="/box-shadows.css">
-  <!-- or -->
-  <link rel="stylesheet" href="/box-shadows.min.css">
+  <!-- or include it directly via CDN -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/box-shadows-css@1/box-shadows.min.css">
 </head>
 ```
 
