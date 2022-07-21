@@ -2,7 +2,7 @@
 
 [![flagru][flagru]][readmeru] [![flagen][flagen]][readmeen]
 
-<a href="https://github.com/madeas/box-shadows.css"><img src="https://madeas.github.io/bs_logo.svg?raw=true" alt="logo" width="60" height="60" style="border-radius:8px" data-canonical-src="https://madeas.github.io/bs_logo.svg" align="right"></a>
+<a href="https://github.com/madeas/box-shadows.css"><img src="https://user-images.githubusercontent.com/26485837/180305742-fca3d0b5-fd50-4e25-998b-d9ef0cb9c391.png" alt="logo" width="60" height="60" style="border-radius:8px" data-canonical-src="https://madeas.github.io/bs_logo.svg" align="right"></a>
 
 A cross-browser collection of CSS box-shadow
 
